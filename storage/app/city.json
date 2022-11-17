@@ -1,0 +1,6788 @@
+[
+ {
+  "slug": "adygeysk",
+  "name": "Адыгейск",
+  "where": "Адыгейске",
+  "region": 1
+ },
+ {
+  "slug": "maykop",
+  "name": "Майкоп",
+  "where": "Майкопе",
+  "region": 1
+ },
+ {
+  "slug": "agidel",
+  "name": "Агидель",
+  "where": "Агидели",
+  "region": 2
+ },
+ {
+  "slug": "baymak",
+  "name": "Баймак",
+  "where": "Баймаке",
+  "region": 2
+ },
+ {
+  "slug": "belebey",
+  "name": "Белебей",
+  "where": "Белебее",
+  "region": 2
+ },
+ {
+  "slug": "beloretsk",
+  "name": "Белорецк",
+  "where": "Белорецке",
+  "region": 2
+ },
+ {
+  "slug": "birsk",
+  "name": "Бирск",
+  "where": "Бирске",
+  "region": 2
+ },
+ {
+  "slug": "blagoveschensk-baskort",
+  "name": "Благовещенск",
+  "where": "Благовещенске",
+  "region": 2
+ },
+ {
+  "slug": "davlekanovo",
+  "name": "Давлеканово",
+  "where": "Давлеканове",
+  "region": 2
+ },
+ {
+  "slug": "dyurtyuli",
+  "name": "Дюртюли",
+  "where": "Дюртюлях",
+  "region": 2
+ },
+ {
+  "slug": "ishimbay",
+  "name": "Ишимбай",
+  "where": "Ишимбае",
+  "region": 2
+ },
+ {
+  "slug": "kumertau",
+  "name": "Кумертау",
+  "where": "Кумертау",
+  "region": 2
+ },
+ {
+  "slug": "mezhgore",
+  "name": "Межгорье",
+  "where": "Межгорье",
+  "region": 2
+ },
+ {
+  "slug": "meleuz",
+  "name": "Мелеуз",
+  "where": "Мелеузе",
+  "region": 2
+ },
+ {
+  "slug": "neftekamsk",
+  "name": "Нефтекамск",
+  "where": "Нефтекамске",
+  "region": 2
+ },
+ {
+  "slug": "oktyabrskiy",
+  "name": "Октябрьский",
+  "where": "Октябрьском",
+  "region": 2
+ },
+ {
+  "slug": "salavat",
+  "name": "Салават",
+  "where": "Салавате",
+  "region": 2
+ },
+ {
+  "slug": "sibay",
+  "name": "Сибай",
+  "where": "Сибае",
+  "region": 2
+ },
+ {
+  "slug": "sterlitamak",
+  "name": "Стерлитамак",
+  "where": "Стерлитамаке",
+  "region": 2
+ },
+ {
+  "slug": "tuymazy",
+  "name": "Туймазы",
+  "where": "Туймазах",
+  "region": 2
+ },
+ {
+  "slug": "ufa",
+  "name": "Уфа",
+  "where": "Уфе",
+  "region": 2
+ },
+ {
+  "slug": "uchaly",
+  "name": "Учалы",
+  "where": "Учалах",
+  "region": 2
+ },
+ {
+  "slug": "yanaul",
+  "name": "Янаул",
+  "where": "Янауле",
+  "region": 2
+ },
+ {
+  "slug": "babushkin",
+  "name": "Бабушкин",
+  "where": "Бабушкином",
+  "region": 3
+ },
+ {
+  "slug": "gusinoozersk",
+  "name": "Гусиноозерск",
+  "where": "Гусиноозерске",
+  "region": 3
+ },
+ {
+  "slug": "zakamensk",
+  "name": "Закаменск",
+  "where": "Закаменске",
+  "region": 3
+ },
+ {
+  "slug": "kyakhta",
+  "name": "Кяхта",
+  "where": "Кяхте",
+  "region": 3
+ },
+ {
+  "slug": "severobaykalsk",
+  "name": "Северобайкальск",
+  "where": "Северобайкальске",
+  "region": 3
+ },
+ {
+  "slug": "ulan-ude",
+  "name": "Улан-Удэ",
+  "where": "Улане-Удэ",
+  "region": 3
+ },
+ {
+  "slug": "gorno-altaysk",
+  "name": "Горно-Алтайск",
+  "where": "Горно-Алтайске",
+  "region": 4
+ },
+ {
+  "slug": "buynaksk",
+  "name": "Буйнакск",
+  "where": "Буйнакске",
+  "region": 5
+ },
+ {
+  "slug": "dagestanskie ogni",
+  "name": "Дагестанские Огни",
+  "where": "Дагестанских Огнях",
+  "region": 5
+ },
+ {
+  "slug": "derbent",
+  "name": "Дербент",
+  "where": "Дербенте",
+  "region": 5
+ },
+ {
+  "slug": "izberbash",
+  "name": "Избербаш",
+  "where": "Избербаше",
+  "region": 5
+ },
+ {
+  "slug": "kaspiysk",
+  "name": "Каспийск",
+  "where": "Каспийске",
+  "region": 5
+ },
+ {
+  "slug": "kizilyurt",
+  "name": "Кизилюрт",
+  "where": "Кизилюрте",
+  "region": 5
+ },
+ {
+  "slug": "kizlyar",
+  "name": "Кизляр",
+  "where": "Кизляре",
+  "region": 5
+ },
+ {
+  "slug": "makhachkala",
+  "name": "Махачкала",
+  "where": "Махачкале",
+  "region": 5
+ },
+ {
+  "slug": "khasavyurt",
+  "name": "Хасавюрт",
+  "where": "Хасавюрте",
+  "region": 5
+ },
+ {
+  "slug": "yuzhno-sukhokumsk",
+  "name": "Южно-Сухокумск",
+  "where": "Южно-Сухокумске",
+  "region": 5
+ },
+ {
+  "slug": "karabulak",
+  "name": "Карабулак",
+  "where": "Карабулаке",
+  "region": 6
+ },
+ {
+  "slug": "magas",
+  "name": "Магас",
+  "where": "Магасе",
+  "region": 6
+ },
+ {
+  "slug": "malgobek",
+  "name": "Малгобек",
+  "where": "Малгобеке",
+  "region": 6
+ },
+ {
+  "slug": "nazran",
+  "name": "Назрань",
+  "where": "Назрани",
+  "region": 6
+ },
+ {
+  "slug": "baksan",
+  "name": "Баксан",
+  "where": "Баксане",
+  "region": 7
+ },
+ {
+  "slug": "mayskiy",
+  "name": "Майский",
+  "where": "Майском",
+  "region": 7
+ },
+ {
+  "slug": "nalchik",
+  "name": "Нальчик",
+  "where": "Нальчике",
+  "region": 7
+ },
+ {
+  "slug": "nartkala",
+  "name": "Нарткала",
+  "where": "Нарткале",
+  "region": 7
+ },
+ {
+  "slug": "prokhladnyy",
+  "name": "Прохладный",
+  "where": "Прохладном",
+  "region": 7
+ },
+ {
+  "slug": "terek",
+  "name": "Терек",
+  "where": "Тереке",
+  "region": 7
+ },
+ {
+  "slug": "tyrnyauz",
+  "name": "Тырныауз",
+  "where": "Тырныаузе",
+  "region": 7
+ },
+ {
+  "slug": "chegem",
+  "name": "Чегем",
+  "where": "Чегеме",
+  "region": 7
+ },
+ {
+  "slug": "gorodovikovsk",
+  "name": "Городовиковск",
+  "where": "Городовиковске",
+  "region": 8
+ },
+ {
+  "slug": "lagan",
+  "name": "Лагань",
+  "where": "Лагане",
+  "region": 8
+ },
+ {
+  "slug": "elista",
+  "name": "Элиста",
+  "where": "Элисте",
+  "region": 8
+ },
+ {
+  "slug": "karachaevsk",
+  "name": "Карачаевск",
+  "where": "Карачаевске",
+  "region": 9
+ },
+ {
+  "slug": "teberda",
+  "name": "Теберда",
+  "where": "Теберде",
+  "region": 9
+ },
+ {
+  "slug": "ust-dzheguta",
+  "name": "Усть-Джегута",
+  "where": "Усть-Джегуте",
+  "region": 9
+ },
+ {
+  "slug": "cherkessk",
+  "name": "Черкесск",
+  "where": "Черкесске",
+  "region": 9
+ },
+ {
+  "slug": "belomorsk",
+  "name": "Беломорск",
+  "where": "Беломорске",
+  "region": 10
+ },
+ {
+  "slug": "kem",
+  "name": "Кемь",
+  "where": "Кеми",
+  "region": 10
+ },
+ {
+  "slug": "kondopoga",
+  "name": "Кондопога",
+  "where": "Кондопоге",
+  "region": 10
+ },
+ {
+  "slug": "kostomuksha",
+  "name": "Костомукша",
+  "where": "Костомукше",
+  "region": 10
+ },
+ {
+  "slug": "lakhdenpokhya",
+  "name": "Лахденпохья",
+  "where": "Лахденпохье",
+  "region": 10
+ },
+ {
+  "slug": "medvezhegorsk",
+  "name": "Медвежьегорск",
+  "where": "Медвежьегорске",
+  "region": 10
+ },
+ {
+  "slug": "olonets",
+  "name": "Олонец",
+  "where": "Олонце",
+  "region": 10
+ },
+ {
+  "slug": "petrozavodsk",
+  "name": "Петрозаводск",
+  "where": "Петрозаводске",
+  "region": 10
+ },
+ {
+  "slug": "pitkyaranta",
+  "name": "Питкяранта",
+  "where": "Питкяранте",
+  "region": 10
+ },
+ {
+  "slug": "pudozh",
+  "name": "Пудож",
+  "where": "Пудоже",
+  "region": 10
+ },
+ {
+  "slug": "segezha",
+  "name": "Сегежа",
+  "where": "Сегеже",
+  "region": 10
+ },
+ {
+  "slug": "sortavala",
+  "name": "Сортавала",
+  "where": "Сортавале",
+  "region": 10
+ },
+ {
+  "slug": "suoyarvi",
+  "name": "Суоярви",
+  "where": "Суоярви",
+  "region": 10
+ },
+ {
+  "slug": "vorkuta",
+  "name": "Воркута",
+  "where": "Воркуте",
+  "region": 11
+ },
+ {
+  "slug": "vuktyl",
+  "name": "Вуктыл",
+  "where": "Вуктыле",
+  "region": 11
+ },
+ {
+  "slug": "emva",
+  "name": "Емва",
+  "where": "Емве",
+  "region": 11
+ },
+ {
+  "slug": "inta",
+  "name": "Инта",
+  "where": "Инте",
+  "region": 11
+ },
+ {
+  "slug": "mikun",
+  "name": "Микунь",
+  "where": "Микуне",
+  "region": 11
+ },
+ {
+  "slug": "pechora",
+  "name": "Печора",
+  "where": "Печоре",
+  "region": 11
+ },
+ {
+  "slug": "sosnogorsk",
+  "name": "Сосногорск",
+  "where": "Сосногорске",
+  "region": 11
+ },
+ {
+  "slug": "syktyvkar",
+  "name": "Сыктывкар",
+  "where": "Сыктывкаре",
+  "region": 11
+ },
+ {
+  "slug": "usinsk",
+  "name": "Усинск",
+  "where": "Усинске",
+  "region": 11
+ },
+ {
+  "slug": "ukhta",
+  "name": "Ухта",
+  "where": "Ухте",
+  "region": 11
+ },
+ {
+  "slug": "volzhsk",
+  "name": "Волжск",
+  "where": "Волжске",
+  "region": 12
+ },
+ {
+  "slug": "zvenigovo",
+  "name": "Звенигово",
+  "where": "Звенигове",
+  "region": 12
+ },
+ {
+  "slug": "yoshkar-ola",
+  "name": "Йошкар-Ола",
+  "where": "Йошкаре-Оле",
+  "region": 12
+ },
+ {
+  "slug": "kozmodemyansk",
+  "name": "Козьмодемьянск",
+  "where": "Козьмодемьянске",
+  "region": 12
+ },
+ {
+  "slug": "ardatov",
+  "name": "Ардатов",
+  "where": "Ардатове",
+  "region": 13
+ },
+ {
+  "slug": "insar",
+  "name": "Инсар",
+  "where": "Инсаре",
+  "region": 13
+ },
+ {
+  "slug": "kovylkino",
+  "name": "Ковылкино",
+  "where": "Ковылкине",
+  "region": 13
+ },
+ {
+  "slug": "krasnoslobodsk-mordoviya",
+  "name": "Краснослободск",
+  "where": "Краснослободске",
+  "region": 13
+ },
+ {
+  "slug": "ruzaevka",
+  "name": "Рузаевка",
+  "where": "Рузаевке",
+  "region": 13
+ },
+ {
+  "slug": "saransk",
+  "name": "Саранск",
+  "where": "Саранске",
+  "region": 13
+ },
+ {
+  "slug": "temnikov",
+  "name": "Темников",
+  "where": "Темникове",
+  "region": 13
+ },
+ {
+  "slug": "aldan",
+  "name": "Алдан",
+  "where": "Алдане",
+  "region": 14
+ },
+ {
+  "slug": "verkhoyansk",
+  "name": "Верхоянск",
+  "where": "Верхоянске",
+  "region": 14
+ },
+ {
+  "slug": "vilyuysk",
+  "name": "Вилюйск",
+  "where": "Вилюйске",
+  "region": 14
+ },
+ {
+  "slug": "lensk",
+  "name": "Ленск",
+  "where": "Ленске",
+  "region": 14
+ },
+ {
+  "slug": "mirnyy-saha",
+  "name": "Мирный",
+  "where": "Мирном",
+  "region": 14
+ },
+ {
+  "slug": "neryungri",
+  "name": "Нерюнгри",
+  "where": "Нерюнгри",
+  "region": 14
+ },
+ {
+  "slug": "nyurba",
+  "name": "Нюрба",
+  "where": "Нюрбе",
+  "region": 14
+ },
+ {
+  "slug": "olekminsk",
+  "name": "Олекминск",
+  "where": "Олекминске",
+  "region": 14
+ },
+ {
+  "slug": "pokrovsk",
+  "name": "Покровск",
+  "where": "Покровске",
+  "region": 14
+ },
+ {
+  "slug": "srednekolymsk",
+  "name": "Среднеколымск",
+  "where": "Среднеколымске",
+  "region": 14
+ },
+ {
+  "slug": "tommot",
+  "name": "Томмот",
+  "where": "Томмоте",
+  "region": 14
+ },
+ {
+  "slug": "udachnyy",
+  "name": "Удачный",
+  "where": "Удачном",
+  "region": 14
+ },
+ {
+  "slug": "yakutsk",
+  "name": "Якутск",
+  "where": "Якутске",
+  "region": 14
+ },
+ {
+  "slug": "alagir",
+  "name": "Алагир",
+  "where": "Алагире",
+  "region": 15
+ },
+ {
+  "slug": "ardon",
+  "name": "Ардон",
+  "where": "Ардоне",
+  "region": 15
+ },
+ {
+  "slug": "beslan",
+  "name": "Беслан",
+  "where": "Беслане",
+  "region": 15
+ },
+ {
+  "slug": "vladikavkaz",
+  "name": "Владикавказ",
+  "where": "Владикавказе",
+  "region": 15
+ },
+ {
+  "slug": "digora",
+  "name": "Дигора",
+  "where": "Дигоре",
+  "region": 15
+ },
+ {
+  "slug": "mozdok",
+  "name": "Моздок",
+  "where": "Моздоке",
+  "region": 15
+ },
+ {
+  "slug": "agryz",
+  "name": "Агрыз",
+  "where": "Агрызе",
+  "region": 16
+ },
+ {
+  "slug": "aznakaevo",
+  "name": "Азнакаево",
+  "where": "Азнакаеве",
+  "region": 16
+ },
+ {
+  "slug": "almetevsk",
+  "name": "Альметьевск",
+  "where": "Альметьевске",
+  "region": 16
+ },
+ {
+  "slug": "arsk",
+  "name": "Арск",
+  "where": "Арске",
+  "region": 16
+ },
+ {
+  "slug": "bavly",
+  "name": "Бавлы",
+  "where": "Бавлах",
+  "region": 16
+ },
+ {
+  "slug": "bolgar",
+  "name": "Болгар",
+  "where": "Болгаре",
+  "region": 16
+ },
+ {
+  "slug": "bugulma",
+  "name": "Бугульма",
+  "where": "Бугульме",
+  "region": 16
+ },
+ {
+  "slug": "buinsk",
+  "name": "Буинск",
+  "where": "Буинске",
+  "region": 16
+ },
+ {
+  "slug": "elabuga",
+  "name": "Елабуга",
+  "where": "Елабуге",
+  "region": 16
+ },
+ {
+  "slug": "zainsk",
+  "name": "Заинск",
+  "where": "Заинске",
+  "region": 16
+ },
+ {
+  "slug": "zelenodolsk",
+  "name": "Зеленодольск",
+  "where": "Зеленодольске",
+  "region": 16
+ },
+ {
+  "slug": "kazan",
+  "name": "Казань",
+  "where": "Казани",
+  "region": 16
+ },
+ {
+  "slug": "laishevo",
+  "name": "Лаишево",
+  "where": "Лаишеве",
+  "region": 16
+ },
+ {
+  "slug": "leninogorsk",
+  "name": "Лениногорск",
+  "where": "Лениногорске",
+  "region": 16
+ },
+ {
+  "slug": "mamadysh",
+  "name": "Мамадыш",
+  "where": "Мамадыше",
+  "region": 16
+ },
+ {
+  "slug": "mendeleevsk",
+  "name": "Менделеевск",
+  "where": "Менделеевске",
+  "region": 16
+ },
+ {
+  "slug": "menzelinsk",
+  "name": "Мензелинск",
+  "where": "Мензелинске",
+  "region": 16
+ },
+ {
+  "slug": "naberezhnye chelny",
+  "name": "Набережные Челны",
+  "where": "Набережных Челнах",
+  "region": 16
+ },
+ {
+  "slug": "nizhnekamsk",
+  "name": "Нижнекамск",
+  "where": "Нижнекамске",
+  "region": 16
+ },
+ {
+  "slug": "nurlat",
+  "name": "Нурлат",
+  "where": "Нурлате",
+  "region": 16
+ },
+ {
+  "slug": "tetyushi",
+  "name": "Тетюши",
+  "where": "Тетюшах",
+  "region": 16
+ },
+ {
+  "slug": "chistopol",
+  "name": "Чистополь",
+  "where": "Чистополе",
+  "region": 16
+ },
+ {
+  "slug": "ak-dovurak",
+  "name": "Ак-Довурак",
+  "where": "Ак-Довураке",
+  "region": 17
+ },
+ {
+  "slug": "kyzyl",
+  "name": "Кызыл",
+  "where": "Кызыле",
+  "region": 17
+ },
+ {
+  "slug": "turan",
+  "name": "Туран",
+  "where": "Туране",
+  "region": 17
+ },
+ {
+  "slug": "chadan",
+  "name": "Чадан",
+  "where": "Чадане",
+  "region": 17
+ },
+ {
+  "slug": "shagonar",
+  "name": "Шагонар",
+  "where": "Шагонаре",
+  "region": 17
+ },
+ {
+  "slug": "votkinsk",
+  "name": "Воткинск",
+  "where": "Воткинске",
+  "region": 18
+ },
+ {
+  "slug": "glazov",
+  "name": "Глазов",
+  "where": "Глазове",
+  "region": 18
+ },
+ {
+  "slug": "izhevsk",
+  "name": "Ижевск",
+  "where": "Ижевске",
+  "region": 18
+ },
+ {
+  "slug": "kambarka",
+  "name": "Камбарка",
+  "where": "Камбарке",
+  "region": 18
+ },
+ {
+  "slug": "mozhga",
+  "name": "Можга",
+  "where": "Можге",
+  "region": 18
+ },
+ {
+  "slug": "sarapul",
+  "name": "Сарапул",
+  "where": "Сарапуле",
+  "region": 18
+ },
+ {
+  "slug": "abaza",
+  "name": "Абаза",
+  "where": "Абазе",
+  "region": 19
+ },
+ {
+  "slug": "abakan",
+  "name": "Абакан",
+  "where": "Абакане",
+  "region": 19
+ },
+ {
+  "slug": "sayanogorsk",
+  "name": "Саяногорск",
+  "where": "Саяногорске",
+  "region": 19
+ },
+ {
+  "slug": "sorsk",
+  "name": "Сорск",
+  "where": "Сорске",
+  "region": 19
+ },
+ {
+  "slug": "chernogorsk",
+  "name": "Черногорск",
+  "where": "Черногорске",
+  "region": 19
+ },
+ {
+  "slug": "argun",
+  "name": "Аргун",
+  "where": "Аргуне",
+  "region": 20
+ },
+ {
+  "slug": "groznyy",
+  "name": "Грозный",
+  "where": "Грозном",
+  "region": 20
+ },
+ {
+  "slug": "gudermes",
+  "name": "Гудермес",
+  "where": "Гудермесе",
+  "region": 20
+ },
+ {
+  "slug": "urus-martan",
+  "name": "Урус-Мартан",
+  "where": "Урусе-Мартане",
+  "region": 20
+ },
+ {
+  "slug": "shali",
+  "name": "Шали",
+  "where": "Шали",
+  "region": 20
+ },
+ {
+  "slug": "alatyr",
+  "name": "Алатырь",
+  "where": "Алатыре",
+  "region": 21
+ },
+ {
+  "slug": "kanash",
+  "name": "Канаш",
+  "where": "Канаше",
+  "region": 21
+ },
+ {
+  "slug": "kozlovka",
+  "name": "Козловка",
+  "where": "Козловке",
+  "region": 21
+ },
+ {
+  "slug": "mariinskiy posad",
+  "name": "Мариинский Посад",
+  "where": "Мариинском Посаде",
+  "region": 21
+ },
+ {
+  "slug": "novocheboksarsk",
+  "name": "Новочебоксарск",
+  "where": "Новочебоксарске",
+  "region": 21
+ },
+ {
+  "slug": "tsivilsk",
+  "name": "Цивильск",
+  "where": "Цивильске",
+  "region": 21
+ },
+ {
+  "slug": "cheboksary",
+  "name": "Чебоксары",
+  "where": "Чебоксарах",
+  "region": 21
+ },
+ {
+  "slug": "shumerlya",
+  "name": "Шумерля",
+  "where": "Шумерле",
+  "region": 21
+ },
+ {
+  "slug": "yadrin",
+  "name": "Ядрин",
+  "where": "Ядрине",
+  "region": 21
+ },
+ {
+  "slug": "aleysk",
+  "name": "Алейск",
+  "where": "Алейске",
+  "region": 22
+ },
+ {
+  "slug": "barnaul",
+  "name": "Барнаул",
+  "where": "Барнауле",
+  "region": 22
+ },
+ {
+  "slug": "belokurikha",
+  "name": "Белокуриха",
+  "where": "Белокурихе",
+  "region": 22
+ },
+ {
+  "slug": "biysk",
+  "name": "Бийск",
+  "where": "Бийске",
+  "region": 22
+ },
+ {
+  "slug": "gornyak",
+  "name": "Горняк",
+  "where": "Горняке",
+  "region": 22
+ },
+ {
+  "slug": "zarinsk",
+  "name": "Заринск",
+  "where": "Заринске",
+  "region": 22
+ },
+ {
+  "slug": "zmeinogorsk",
+  "name": "Змеиногорск",
+  "where": "Змеиногорске",
+  "region": 22
+ },
+ {
+  "slug": "kamen-na-obi",
+  "name": "Камень-на-Оби",
+  "where": "Камне-на-Оби",
+  "region": 22
+ },
+ {
+  "slug": "novoaltaysk",
+  "name": "Новоалтайск",
+  "where": "Новоалтайске",
+  "region": 22
+ },
+ {
+  "slug": "rubtsovsk",
+  "name": "Рубцовск",
+  "where": "Рубцовске",
+  "region": 22
+ },
+ {
+  "slug": "slavgorod",
+  "name": "Славгород",
+  "where": "Славгороде",
+  "region": 22
+ },
+ {
+  "slug": "yarovoe",
+  "name": "Яровое",
+  "where": "Яровом",
+  "region": 22
+ },
+ {
+  "slug": "abinsk",
+  "name": "Абинск",
+  "where": "Абинске",
+  "region": 23
+ },
+ {
+  "slug": "anapa",
+  "name": "Анапа",
+  "where": "Анапе",
+  "region": 23
+ },
+ {
+  "slug": "apsheronsk",
+  "name": "Апшеронск",
+  "where": "Апшеронске",
+  "region": 23
+ },
+ {
+  "slug": "armavir",
+  "name": "Армавир",
+  "where": "Армавире",
+  "region": 23
+ },
+ {
+  "slug": "belorechensk",
+  "name": "Белореченск",
+  "where": "Белореченске",
+  "region": 23
+ },
+ {
+  "slug": "gelendzhik",
+  "name": "Геленджик",
+  "where": "Геленджике",
+  "region": 23
+ },
+ {
+  "slug": "goryachiy klyuch",
+  "name": "Горячий Ключ",
+  "where": "Горячем Ключе",
+  "region": 23
+ },
+ {
+  "slug": "gulkevichi",
+  "name": "Гулькевичи",
+  "where": "Гулькевичи",
+  "region": 23
+ },
+ {
+  "slug": "eysk",
+  "name": "Ейск",
+  "where": "Ейске",
+  "region": 23
+ },
+ {
+  "slug": "korenovsk",
+  "name": "Кореновск",
+  "where": "Кореновске",
+  "region": 23
+ },
+ {
+  "slug": "krasnodar",
+  "name": "Краснодар",
+  "where": "Краснодаре",
+  "region": 23
+ },
+ {
+  "slug": "kropotkin",
+  "name": "Кропоткин",
+  "where": "Кропоткине",
+  "region": 23
+ },
+ {
+  "slug": "krymsk",
+  "name": "Крымск",
+  "where": "Крымске",
+  "region": 23
+ },
+ {
+  "slug": "kurganinsk",
+  "name": "Курганинск",
+  "where": "Курганинске",
+  "region": 23
+ },
+ {
+  "slug": "labinsk",
+  "name": "Лабинск",
+  "where": "Лабинске",
+  "region": 23
+ },
+ {
+  "slug": "novokubansk",
+  "name": "Новокубанск",
+  "where": "Новокубанске",
+  "region": 23
+ },
+ {
+  "slug": "novorossiysk",
+  "name": "Новороссийск",
+  "where": "Новороссийске",
+  "region": 23
+ },
+ {
+  "slug": "primorsko-akhtarsk",
+  "name": "Приморско-Ахтарск",
+  "where": "Приморско-Ахтарске",
+  "region": 23
+ },
+ {
+  "slug": "slavyansk-na-kubani",
+  "name": "Славянск-на-Кубани",
+  "where": "Славянске-на-Кубани",
+  "region": 23
+ },
+ {
+  "slug": "sochi",
+  "name": "Сочи",
+  "where": "Сочи",
+  "region": 23
+ },
+ {
+  "slug": "temryuk",
+  "name": "Темрюк",
+  "where": "Темрюке",
+  "region": 23
+ },
+ {
+  "slug": "timashevsk",
+  "name": "Тимашевск",
+  "where": "Тимашевске",
+  "region": 23
+ },
+ {
+  "slug": "tikhoretsk",
+  "name": "Тихорецк",
+  "where": "Тихорецке",
+  "region": 23
+ },
+ {
+  "slug": "tuapse",
+  "name": "Туапсе",
+  "where": "Туапсе",
+  "region": 23
+ },
+ {
+  "slug": "ust-labinsk",
+  "name": "Усть-Лабинск",
+  "where": "Усть-Лабинске",
+  "region": 23
+ },
+ {
+  "slug": "khadyzhensk",
+  "name": "Хадыженск",
+  "where": "Хадыженске",
+  "region": 23
+ },
+ {
+  "slug": "artemovsk",
+  "name": "Артемовск",
+  "where": "Артемовске",
+  "region": 24
+ },
+ {
+  "slug": "achinsk",
+  "name": "Ачинск",
+  "where": "Ачинске",
+  "region": 24
+ },
+ {
+  "slug": "bogotol",
+  "name": "Боготол",
+  "where": "Боготоле",
+  "region": 24
+ },
+ {
+  "slug": "borodino",
+  "name": "Бородино",
+  "where": "Бородине",
+  "region": 24
+ },
+ {
+  "slug": "divnogorsk",
+  "name": "Дивногорск",
+  "where": "Дивногорске",
+  "region": 24
+ },
+ {
+  "slug": "dudinka",
+  "name": "Дудинка",
+  "where": "Дудинке",
+  "region": 24
+ },
+ {
+  "slug": "eniseysk",
+  "name": "Енисейск",
+  "where": "Енисейске",
+  "region": 24
+ },
+ {
+  "slug": "zheleznogorsk-krasnoyarsk",
+  "name": "Железногорск",
+  "where": "Железногорске",
+  "region": 24
+ },
+ {
+  "slug": "zaozernyy",
+  "name": "Заозерный",
+  "where": "Заозерном",
+  "region": 24
+ },
+ {
+  "slug": "zelenogorsk-krasnoyarsk",
+  "name": "Зеленогорск",
+  "where": "Зеленогорске",
+  "region": 24
+ },
+ {
+  "slug": "igarka",
+  "name": "Игарка",
+  "where": "Игарке",
+  "region": 24
+ },
+ {
+  "slug": "ilanskiy",
+  "name": "Иланский",
+  "where": "Иланском",
+  "region": 24
+ },
+ {
+  "slug": "kansk",
+  "name": "Канск",
+  "where": "Канске",
+  "region": 24
+ },
+ {
+  "slug": "kodinsk",
+  "name": "Кодинск",
+  "where": "Кодинске",
+  "region": 24
+ },
+ {
+  "slug": "krasnoyarsk",
+  "name": "Красноярск",
+  "where": "Красноярске",
+  "region": 24
+ },
+ {
+  "slug": "lesosibirsk",
+  "name": "Лесосибирск",
+  "where": "Лесосибирске",
+  "region": 24
+ },
+ {
+  "slug": "minusinsk",
+  "name": "Минусинск",
+  "where": "Минусинске",
+  "region": 24
+ },
+ {
+  "slug": "nazarovo",
+  "name": "Назарово",
+  "where": "Назарове",
+  "region": 24
+ },
+ {
+  "slug": "norilsk",
+  "name": "Норильск",
+  "where": "Норильске",
+  "region": 24
+ },
+ {
+  "slug": "sosnovoborsk",
+  "name": "Сосновоборск",
+  "where": "Сосновоборске",
+  "region": 24
+ },
+ {
+  "slug": "uzhur",
+  "name": "Ужур",
+  "where": "Ужуре",
+  "region": 24
+ },
+ {
+  "slug": "uyar",
+  "name": "Уяр",
+  "where": "Уяре",
+  "region": 24
+ },
+ {
+  "slug": "sharypovo",
+  "name": "Шарыпово",
+  "where": "Шарыпове",
+  "region": 24
+ },
+ {
+  "slug": "arsenev",
+  "name": "Арсеньев",
+  "where": "Арсеньеве",
+  "region": 25
+ },
+ {
+  "slug": "artem",
+  "name": "Артем",
+  "where": "Артеме",
+  "region": 25
+ },
+ {
+  "slug": "bolshoy kamen",
+  "name": "Большой Камень",
+  "where": "Большом Камне",
+  "region": 25
+ },
+ {
+  "slug": "vladivostok",
+  "name": "Владивосток",
+  "where": "Владивостоке",
+  "region": 25
+ },
+ {
+  "slug": "dalnegorsk",
+  "name": "Дальнегорск",
+  "where": "Дальнегорске",
+  "region": 25
+ },
+ {
+  "slug": "dalnerechensk",
+  "name": "Дальнереченск",
+  "where": "Дальнереченске",
+  "region": 25
+ },
+ {
+  "slug": "lesozavodsk",
+  "name": "Лесозаводск",
+  "where": "Лесозаводске",
+  "region": 25
+ },
+ {
+  "slug": "nakhodka",
+  "name": "Находка",
+  "where": "Находке",
+  "region": 25
+ },
+ {
+  "slug": "partizansk",
+  "name": "Партизанск",
+  "where": "Партизанске",
+  "region": 25
+ },
+ {
+  "slug": "spassk-dalniy",
+  "name": "Спасск-Дальний",
+  "where": "Спасске-Дальнем",
+  "region": 25
+ },
+ {
+  "slug": "ussuriysk",
+  "name": "Уссурийск",
+  "where": "Уссурийске",
+  "region": 25
+ },
+ {
+  "slug": "fokino-primorsk",
+  "name": "Фокино",
+  "where": "Фокине",
+  "region": 25
+ },
+ {
+  "slug": "blagodarnyy",
+  "name": "Благодарный",
+  "where": "Благодарном",
+  "region": 26
+ },
+ {
+  "slug": "budennovsk",
+  "name": "Буденновск",
+  "where": "Буденновске",
+  "region": 26
+ },
+ {
+  "slug": "georgievsk",
+  "name": "Георгиевск",
+  "where": "Георгиевске",
+  "region": 26
+ },
+ {
+  "slug": "essentuki",
+  "name": "Ессентуки",
+  "where": "Ессентуках",
+  "region": 26
+ },
+ {
+  "slug": "zheleznovodsk",
+  "name": "Железноводск",
+  "where": "Железноводске",
+  "region": 26
+ },
+ {
+  "slug": "zelenokumsk",
+  "name": "Зеленокумск",
+  "where": "Зеленокумске",
+  "region": 26
+ },
+ {
+  "slug": "izobilnyy",
+  "name": "Изобильный",
+  "where": "Изобильном",
+  "region": 26
+ },
+ {
+  "slug": "ipatovo",
+  "name": "Ипатово",
+  "where": "Ипатове",
+  "region": 26
+ },
+ {
+  "slug": "kislovodsk",
+  "name": "Кисловодск",
+  "where": "Кисловодске",
+  "region": 26
+ },
+ {
+  "slug": "lermontov",
+  "name": "Лермонтов",
+  "where": "Лермонтове",
+  "region": 26
+ },
+ {
+  "slug": "mineralnye vody",
+  "name": "Минеральные Воды",
+  "where": "Минеральных Водах",
+  "region": 26
+ },
+ {
+  "slug": "mikhaylovsk-stavropol",
+  "name": "Михайловск",
+  "where": "Михайловске",
+  "region": 26
+ },
+ {
+  "slug": "nevinnomyssk",
+  "name": "Невинномысск",
+  "where": "Невинномысске",
+  "region": 26
+ },
+ {
+  "slug": "neftekumsk",
+  "name": "Нефтекумск",
+  "where": "Нефтекумске",
+  "region": 26
+ },
+ {
+  "slug": "novoaleksandrovsk",
+  "name": "Новоалександровск",
+  "where": "Новоалександровске",
+  "region": 26
+ },
+ {
+  "slug": "novopavlovsk",
+  "name": "Новопавловск",
+  "where": "Новопавловске",
+  "region": 26
+ },
+ {
+  "slug": "pyatigorsk",
+  "name": "Пятигорск",
+  "where": "Пятигорске",
+  "region": 26
+ },
+ {
+  "slug": "svetlograd",
+  "name": "Светлоград",
+  "where": "Светлограде",
+  "region": 26
+ },
+ {
+  "slug": "stavropol",
+  "name": "Ставрополь",
+  "where": "Ставрополе",
+  "region": 26
+ },
+ {
+  "slug": "amursk",
+  "name": "Амурск",
+  "where": "Амурске",
+  "region": 27
+ },
+ {
+  "slug": "bikin",
+  "name": "Бикин",
+  "where": "Бикине",
+  "region": 27
+ },
+ {
+  "slug": "vyazemskiy",
+  "name": "Вяземский",
+  "where": "Вяземском",
+  "region": 27
+ },
+ {
+  "slug": "komsomolsk-na-amure",
+  "name": "Комсомольск-на-Амуре",
+  "where": "Комсомольске-на-Амуре",
+  "region": 27
+ },
+ {
+  "slug": "nikolaevsk-na-amure",
+  "name": "Николаевск-на-Амуре",
+  "where": "Николаевске-на-Амуре",
+  "region": 27
+ },
+ {
+  "slug": "sovetskaya gavan",
+  "name": "Советская Гавань",
+  "where": "Советской Гавани",
+  "region": 27
+ },
+ {
+  "slug": "khabarovsk",
+  "name": "Хабаровск",
+  "where": "Хабаровске",
+  "region": 27
+ },
+ {
+  "slug": "belogorsk-amursk",
+  "name": "Белогорск",
+  "where": "Белогорске",
+  "region": 28
+ },
+ {
+  "slug": "blagoveschensk-amursk",
+  "name": "Благовещенск",
+  "where": "Благовещенске",
+  "region": 28
+ },
+ {
+  "slug": "zavitinsk",
+  "name": "Завитинск",
+  "where": "Завитинске",
+  "region": 28
+ },
+ {
+  "slug": "zeya",
+  "name": "Зея",
+  "where": "Зее",
+  "region": 28
+ },
+ {
+  "slug": "raychikhinsk",
+  "name": "Райчихинск",
+  "where": "Райчихинске",
+  "region": 28
+ },
+ {
+  "slug": "svobodnyy",
+  "name": "Свободный",
+  "where": "Свободном",
+  "region": 28
+ },
+ {
+  "slug": "skovorodino",
+  "name": "Сковородино",
+  "where": "Сковородине",
+  "region": 28
+ },
+ {
+  "slug": "tynda",
+  "name": "Тында",
+  "where": "Тынде",
+  "region": 28
+ },
+ {
+  "slug": "shimanovsk",
+  "name": "Шимановск",
+  "where": "Шимановске",
+  "region": 28
+ },
+ {
+  "slug": "arkhangelsk",
+  "name": "Архангельск",
+  "where": "Архангельске",
+  "region": 29
+ },
+ {
+  "slug": "velsk",
+  "name": "Вельск",
+  "where": "Вельске",
+  "region": 29
+ },
+ {
+  "slug": "kargopol",
+  "name": "Каргополь",
+  "where": "Каргополе",
+  "region": 29
+ },
+ {
+  "slug": "koryazhma",
+  "name": "Коряжма",
+  "where": "Коряжме",
+  "region": 29
+ },
+ {
+  "slug": "kotlas",
+  "name": "Котлас",
+  "where": "Котласе",
+  "region": 29
+ },
+ {
+  "slug": "mezen",
+  "name": "Мезень",
+  "where": "Мезени",
+  "region": 29
+ },
+ {
+  "slug": "mirnyy-arhangelsk",
+  "name": "Мирный",
+  "where": "Мирном",
+  "region": 29
+ },
+ {
+  "slug": "novodvinsk",
+  "name": "Новодвинск",
+  "where": "Новодвинске",
+  "region": 29
+ },
+ {
+  "slug": "nyandoma",
+  "name": "Няндома",
+  "where": "Няндоме",
+  "region": 29
+ },
+ {
+  "slug": "onega",
+  "name": "Онега",
+  "where": "Онеге",
+  "region": 29
+ },
+ {
+  "slug": "severodvinsk",
+  "name": "Северодвинск",
+  "where": "Северодвинске",
+  "region": 29
+ },
+ {
+  "slug": "solvychegodsk",
+  "name": "Сольвычегодск",
+  "where": "Сольвычегодске",
+  "region": 29
+ },
+ {
+  "slug": "shenkursk",
+  "name": "Шенкурск",
+  "where": "Шенкурске",
+  "region": 29
+ },
+ {
+  "slug": "astrakhan",
+  "name": "Астрахань",
+  "where": "Астрахани",
+  "region": 30
+ },
+ {
+  "slug": "akhtubinsk",
+  "name": "Ахтубинск",
+  "where": "Ахтубинске",
+  "region": 30
+ },
+ {
+  "slug": "znamensk",
+  "name": "Знаменск",
+  "where": "Знаменске",
+  "region": 30
+ },
+ {
+  "slug": "kamyzyak",
+  "name": "Камызяк",
+  "where": "Камызяке",
+  "region": 30
+ },
+ {
+  "slug": "narimanov",
+  "name": "Нариманов",
+  "where": "Нариманове",
+  "region": 30
+ },
+ {
+  "slug": "kharabali",
+  "name": "Харабали",
+  "where": "Харабали",
+  "region": 30
+ },
+ {
+  "slug": "alekseevka",
+  "name": "Алексеевка",
+  "where": "Алексеевке",
+  "region": 31
+ },
+ {
+  "slug": "belgorod",
+  "name": "Белгород",
+  "where": "Белгороде",
+  "region": 31
+ },
+ {
+  "slug": "biryuch",
+  "name": "Бирюч",
+  "where": "Бирюче",
+  "region": 31
+ },
+ {
+  "slug": "valuyki",
+  "name": "Валуйки",
+  "where": "Валуйках",
+  "region": 31
+ },
+ {
+  "slug": "grayvoron",
+  "name": "Грайворон",
+  "where": "Грайвороне",
+  "region": 31
+ },
+ {
+  "slug": "gubkin",
+  "name": "Губкин",
+  "where": "Губкине",
+  "region": 31
+ },
+ {
+  "slug": "korocha",
+  "name": "Короча",
+  "where": "Короче",
+  "region": 31
+ },
+ {
+  "slug": "novyy oskol",
+  "name": "Новый Оскол",
+  "where": "Новом Осколе",
+  "region": 31
+ },
+ {
+  "slug": "staryy oskol",
+  "name": "Старый Оскол",
+  "where": "Старом Осколе",
+  "region": 31
+ },
+ {
+  "slug": "stroitel",
+  "name": "Строитель",
+  "where": "Строителе",
+  "region": 31
+ },
+ {
+  "slug": "shebekino",
+  "name": "Шебекино",
+  "where": "Шебекине",
+  "region": 31
+ },
+ {
+  "slug": "bryansk",
+  "name": "Брянск",
+  "where": "Брянске",
+  "region": 32
+ },
+ {
+  "slug": "dyatkovo",
+  "name": "Дятьково",
+  "where": "Дятькове",
+  "region": 32
+ },
+ {
+  "slug": "zhukovka",
+  "name": "Жуковка",
+  "where": "Жуковке",
+  "region": 32
+ },
+ {
+  "slug": "zlynka",
+  "name": "Злынка",
+  "where": "Злынке",
+  "region": 32
+ },
+ {
+  "slug": "karachev",
+  "name": "Карачев",
+  "where": "Карачеве",
+  "region": 32
+ },
+ {
+  "slug": "klintsy",
+  "name": "Клинцы",
+  "where": "Клинцах",
+  "region": 32
+ },
+ {
+  "slug": "mglin",
+  "name": "Мглин",
+  "where": "Мглине",
+  "region": 32
+ },
+ {
+  "slug": "novozybkov",
+  "name": "Новозыбков",
+  "where": "Новозыбкове",
+  "region": 32
+ },
+ {
+  "slug": "pochep",
+  "name": "Почеп",
+  "where": "Почепе",
+  "region": 32
+ },
+ {
+  "slug": "sevsk",
+  "name": "Севск",
+  "where": "Севске",
+  "region": 32
+ },
+ {
+  "slug": "seltso",
+  "name": "Сельцо",
+  "where": "Сельцо",
+  "region": 32
+ },
+ {
+  "slug": "starodub",
+  "name": "Стародуб",
+  "where": "Стародубе",
+  "region": 32
+ },
+ {
+  "slug": "surazh",
+  "name": "Сураж",
+  "where": "Сураже",
+  "region": 32
+ },
+ {
+  "slug": "trubchevsk",
+  "name": "Трубчевск",
+  "where": "Трубчевске",
+  "region": 32
+ },
+ {
+  "slug": "unecha",
+  "name": "Унеча",
+  "where": "Унече",
+  "region": 32
+ },
+ {
+  "slug": "fokino-bryansk",
+  "name": "Фокино",
+  "where": "Фокине",
+  "region": 32
+ },
+ {
+  "slug": "aleksandrov",
+  "name": "Александров",
+  "where": "Александрове",
+  "region": 33
+ },
+ {
+  "slug": "vladimir",
+  "name": "Владимир",
+  "where": "Владимире",
+  "region": 33
+ },
+ {
+  "slug": "vyazniki",
+  "name": "Вязники",
+  "where": "Вязниках",
+  "region": 33
+ },
+ {
+  "slug": "gorokhovets",
+  "name": "Гороховец",
+  "where": "Гороховце",
+  "region": 33
+ },
+ {
+  "slug": "gus-khrustalnyy",
+  "name": "Гусь-Хрустальный",
+  "where": "Гусь-Хрустальном",
+  "region": 33
+ },
+ {
+  "slug": "kameshkovo",
+  "name": "Камешково",
+  "where": "Камешкове",
+  "region": 33
+ },
+ {
+  "slug": "karabanovo",
+  "name": "Карабаново",
+  "where": "Карабанове",
+  "region": 33
+ },
+ {
+  "slug": "kirzhach",
+  "name": "Киржач",
+  "where": "Киржаче",
+  "region": 33
+ },
+ {
+  "slug": "kovrov",
+  "name": "Ковров",
+  "where": "Коврове",
+  "region": 33
+ },
+ {
+  "slug": "kolchugino",
+  "name": "Кольчугино",
+  "where": "Кольчугине",
+  "region": 33
+ },
+ {
+  "slug": "kosterevo",
+  "name": "Костерево",
+  "where": "Костерево",
+  "region": 33
+ },
+ {
+  "slug": "kurlovo",
+  "name": "Курлово",
+  "where": "Курлово",
+  "region": 33
+ },
+ {
+  "slug": "lakinsk",
+  "name": "Лакинск",
+  "where": "Лакинске",
+  "region": 33
+ },
+ {
+  "slug": "melenki",
+  "name": "Меленки",
+  "where": "Меленках",
+  "region": 33
+ },
+ {
+  "slug": "murom",
+  "name": "Муром",
+  "where": "Муроме",
+  "region": 33
+ },
+ {
+  "slug": "petushki",
+  "name": "Петушки",
+  "where": "Петушках",
+  "region": 33
+ },
+ {
+  "slug": "pokrov",
+  "name": "Покров",
+  "where": "Покрове",
+  "region": 33
+ },
+ {
+  "slug": "raduzhnyy-vladimir",
+  "name": "Радужный",
+  "where": "Радужном",
+  "region": 33
+ },
+ {
+  "slug": "sobinka",
+  "name": "Собинка",
+  "where": "Собинке",
+  "region": 33
+ },
+ {
+  "slug": "strunino",
+  "name": "Струнино",
+  "where": "Струнино",
+  "region": 33
+ },
+ {
+  "slug": "sudogda",
+  "name": "Судогда",
+  "where": "Судогде",
+  "region": 33
+ },
+ {
+  "slug": "suzdal",
+  "name": "Суздаль",
+  "where": "Суздале",
+  "region": 33
+ },
+ {
+  "slug": "yurev-polskiy",
+  "name": "Юрьев-Польский",
+  "where": "Юрьевом-Польском",
+  "region": 33
+ },
+ {
+  "slug": "volgograd",
+  "name": "Волгоград",
+  "where": "Волгограде",
+  "region": 34
+ },
+ {
+  "slug": "volzhskiy",
+  "name": "Волжский",
+  "where": "Волжском",
+  "region": 34
+ },
+ {
+  "slug": "dubovka",
+  "name": "Дубовка",
+  "where": "Дубовке",
+  "region": 34
+ },
+ {
+  "slug": "zhirnovsk",
+  "name": "Жирновск",
+  "where": "Жирновске",
+  "region": 34
+ },
+ {
+  "slug": "kalach-na-donu",
+  "name": "Калач-на-Дону",
+  "where": "Калаче-на-Дону",
+  "region": 34
+ },
+ {
+  "slug": "kamyshin",
+  "name": "Камышин",
+  "where": "Камышине",
+  "region": 34
+ },
+ {
+  "slug": "kotelnikovo",
+  "name": "Котельниково",
+  "where": "Котельникове",
+  "region": 34
+ },
+ {
+  "slug": "kotovo",
+  "name": "Котово",
+  "where": "Котове",
+  "region": 34
+ },
+ {
+  "slug": "krasnoslobodsk-volgograd",
+  "name": "Краснослободск",
+  "where": "Краснослободске",
+  "region": 34
+ },
+ {
+  "slug": "leninsk",
+  "name": "Ленинск",
+  "where": "Ленинске",
+  "region": 34
+ },
+ {
+  "slug": "mikhaylovka",
+  "name": "Михайловка",
+  "where": "Михайловке",
+  "region": 34
+ },
+ {
+  "slug": "nikolaevsk",
+  "name": "Николаевск",
+  "where": "Николаевске",
+  "region": 34
+ },
+ {
+  "slug": "novoanninskiy",
+  "name": "Новоаннинский",
+  "where": "Новоаннинском",
+  "region": 34
+ },
+ {
+  "slug": "pallasovka",
+  "name": "Палласовка",
+  "where": "Палласовке",
+  "region": 34
+ },
+ {
+  "slug": "petrov val",
+  "name": "Петров Вал",
+  "where": "Петровом Валу",
+  "region": 34
+ },
+ {
+  "slug": "serafimovich",
+  "name": "Серафимович",
+  "where": "Серафимовиче",
+  "region": 34
+ },
+ {
+  "slug": "surovikino",
+  "name": "Суровикино",
+  "where": "Суровикине",
+  "region": 34
+ },
+ {
+  "slug": "uryupinsk",
+  "name": "Урюпинск",
+  "where": "Урюпинске",
+  "region": 34
+ },
+ {
+  "slug": "frolovo",
+  "name": "Фролово",
+  "where": "Фролове",
+  "region": 34
+ },
+ {
+  "slug": "babaevo",
+  "name": "Бабаево",
+  "where": "Бабаеве",
+  "region": 35
+ },
+ {
+  "slug": "belozersk",
+  "name": "Белозерск",
+  "where": "Белозерске",
+  "region": 35
+ },
+ {
+  "slug": "velikiy ustyug",
+  "name": "Великий Устюг",
+  "where": "Великом Устюге",
+  "region": 35
+ },
+ {
+  "slug": "vologda",
+  "name": "Вологда",
+  "where": "Вологде",
+  "region": 35
+ },
+ {
+  "slug": "vytegra",
+  "name": "Вытегра",
+  "where": "Вытегре",
+  "region": 35
+ },
+ {
+  "slug": "gryazovets",
+  "name": "Грязовец",
+  "where": "Грязовце",
+  "region": 35
+ },
+ {
+  "slug": "kadnikov",
+  "name": "Кадников",
+  "where": "Кадникове",
+  "region": 35
+ },
+ {
+  "slug": "kirillov",
+  "name": "Кириллов",
+  "where": "Кириллове",
+  "region": 35
+ },
+ {
+  "slug": "krasavino",
+  "name": "Красавино",
+  "where": "Красавино",
+  "region": 35
+ },
+ {
+  "slug": "nikolsk-vologodsk",
+  "name": "Никольск",
+  "where": "Никольске",
+  "region": 35
+ },
+ {
+  "slug": "sokol",
+  "name": "Сокол",
+  "where": "Соколе",
+  "region": 35
+ },
+ {
+  "slug": "totma",
+  "name": "Тотьма",
+  "where": "Тотьме",
+  "region": 35
+ },
+ {
+  "slug": "ustyuzhna",
+  "name": "Устюжна",
+  "where": "Устюжне",
+  "region": 35
+ },
+ {
+  "slug": "kharovsk",
+  "name": "Харовск",
+  "where": "Харовске",
+  "region": 35
+ },
+ {
+  "slug": "cherepovets",
+  "name": "Череповец",
+  "where": "Череповце",
+  "region": 35
+ },
+ {
+  "slug": "bobrov",
+  "name": "Бобров",
+  "where": "Боброве",
+  "region": 36
+ },
+ {
+  "slug": "boguchar",
+  "name": "Богучар",
+  "where": "Богучаре",
+  "region": 36
+ },
+ {
+  "slug": "borisoglebsk",
+  "name": "Борисоглебск",
+  "where": "Борисоглебске",
+  "region": 36
+ },
+ {
+  "slug": "buturlinovka",
+  "name": "Бутурлиновка",
+  "where": "Бутурлиновке",
+  "region": 36
+ },
+ {
+  "slug": "voronezh",
+  "name": "Воронеж",
+  "where": "Воронеже",
+  "region": 36
+ },
+ {
+  "slug": "kalach",
+  "name": "Калач",
+  "where": "Калаче",
+  "region": 36
+ },
+ {
+  "slug": "liski",
+  "name": "Лиски",
+  "where": "Лисках",
+  "region": 36
+ },
+ {
+  "slug": "novovoronezh",
+  "name": "Нововоронеж",
+  "where": "Нововоронеже",
+  "region": 36
+ },
+ {
+  "slug": "novokhopersk",
+  "name": "Новохоперск",
+  "where": "Новохоперске",
+  "region": 36
+ },
+ {
+  "slug": "ostrogozhsk",
+  "name": "Острогожск",
+  "where": "Острогожске",
+  "region": 36
+ },
+ {
+  "slug": "pavlovsk-voronezh",
+  "name": "Павловск",
+  "where": "Павловске",
+  "region": 36
+ },
+ {
+  "slug": "povorino",
+  "name": "Поворино",
+  "where": "Поворине",
+  "region": 36
+ },
+ {
+  "slug": "rossosh",
+  "name": "Россошь",
+  "where": "Россоши",
+  "region": 36
+ },
+ {
+  "slug": "semiluki",
+  "name": "Семилуки",
+  "where": "Семилуках",
+  "region": 36
+ },
+ {
+  "slug": "ertil",
+  "name": "Эртиль",
+  "where": "Эртиле",
+  "region": 36
+ },
+ {
+  "slug": "vichuga",
+  "name": "Вичуга",
+  "where": "Вичуге",
+  "region": 37
+ },
+ {
+  "slug": "gavrilov posad",
+  "name": "Гаврилов Посад",
+  "where": "Гавриловом Посаде",
+  "region": 37
+ },
+ {
+  "slug": "zavolzhsk",
+  "name": "Заволжск",
+  "where": "Заволжске",
+  "region": 37
+ },
+ {
+  "slug": "ivanovo",
+  "name": "Иваново",
+  "where": "Иванове",
+  "region": 37
+ },
+ {
+  "slug": "kineshma",
+  "name": "Кинешма",
+  "where": "Кинешме",
+  "region": 37
+ },
+ {
+  "slug": "komsomolsk",
+  "name": "Комсомольск",
+  "where": "Комсомольске",
+  "region": 37
+ },
+ {
+  "slug": "kokhma",
+  "name": "Кохма",
+  "where": "Кохме",
+  "region": 37
+ },
+ {
+  "slug": "navoloki",
+  "name": "Наволоки",
+  "where": "Наволоке",
+  "region": 37
+ },
+ {
+  "slug": "ples",
+  "name": "Плес",
+  "where": "Плесе",
+  "region": 37
+ },
+ {
+  "slug": "privolzhsk",
+  "name": "Приволжск",
+  "where": "Приволжске",
+  "region": 37
+ },
+ {
+  "slug": "puchezh",
+  "name": "Пучеж",
+  "where": "Пучеже",
+  "region": 37
+ },
+ {
+  "slug": "rodniki",
+  "name": "Родники",
+  "where": "Родниках",
+  "region": 37
+ },
+ {
+  "slug": "teykovo",
+  "name": "Тейково",
+  "where": "Тейкове",
+  "region": 37
+ },
+ {
+  "slug": "furmanov",
+  "name": "Фурманов",
+  "where": "Фурманове",
+  "region": 37
+ },
+ {
+  "slug": "shuya",
+  "name": "Шуя",
+  "where": "Шуе",
+  "region": 37
+ },
+ {
+  "slug": "yuzha",
+  "name": "Южа",
+  "where": "Юже",
+  "region": 37
+ },
+ {
+  "slug": "yurevets",
+  "name": "Юрьевец",
+  "where": "Юрьевце",
+  "region": 37
+ },
+ {
+  "slug": "alzamay",
+  "name": "Алзамай",
+  "where": "Алзамае",
+  "region": 38
+ },
+ {
+  "slug": "angarsk",
+  "name": "Ангарск",
+  "where": "Ангарске",
+  "region": 38
+ },
+ {
+  "slug": "baykalsk",
+  "name": "Байкальск",
+  "where": "Байкальске",
+  "region": 38
+ },
+ {
+  "slug": "biryusinsk",
+  "name": "Бирюсинск",
+  "where": "Бирюсинске",
+  "region": 38
+ },
+ {
+  "slug": "bodaybo",
+  "name": "Бодайбо",
+  "where": "Бодайбо",
+  "region": 38
+ },
+ {
+  "slug": "bratsk",
+  "name": "Братск",
+  "where": "Братске",
+  "region": 38
+ },
+ {
+  "slug": "vikhorevka",
+  "name": "Вихоревка",
+  "where": "Вихоревке",
+  "region": 38
+ },
+ {
+  "slug": "zheleznogorsk-ilimskiy",
+  "name": "Железногорск-Илимский",
+  "where": "Железногорске-Илимском",
+  "region": 38
+ },
+ {
+  "slug": "zima",
+  "name": "Зима",
+  "where": "Зиме",
+  "region": 38
+ },
+ {
+  "slug": "irkutsk",
+  "name": "Иркутск",
+  "where": "Иркутске",
+  "region": 38
+ },
+ {
+  "slug": "kirensk",
+  "name": "Киренск",
+  "where": "Киренске",
+  "region": 38
+ },
+ {
+  "slug": "nizhneudinsk",
+  "name": "Нижнеудинск",
+  "where": "Нижнеудинске",
+  "region": 38
+ },
+ {
+  "slug": "sayansk",
+  "name": "Саянск",
+  "where": "Саянске",
+  "region": 38
+ },
+ {
+  "slug": "svirsk",
+  "name": "Свирск",
+  "where": "Свирске",
+  "region": 38
+ },
+ {
+  "slug": "slyudyanka",
+  "name": "Слюдянка",
+  "where": "Слюдянке",
+  "region": 38
+ },
+ {
+  "slug": "tayshet",
+  "name": "Тайшет",
+  "where": "Тайшете",
+  "region": 38
+ },
+ {
+  "slug": "tulun",
+  "name": "Тулун",
+  "where": "Тулуне",
+  "region": 38
+ },
+ {
+  "slug": "usole-sibirskoe",
+  "name": "Усолье-Сибирское",
+  "where": "Усолье-Сибирском",
+  "region": 38
+ },
+ {
+  "slug": "ust-ilimsk",
+  "name": "Усть-Илимск",
+  "where": "Усть-Илимске",
+  "region": 38
+ },
+ {
+  "slug": "ust-kut",
+  "name": "Усть-Кут",
+  "where": "Усть-Куте",
+  "region": 38
+ },
+ {
+  "slug": "cheremkhovo",
+  "name": "Черемхово",
+  "where": "Черемхове",
+  "region": 38
+ },
+ {
+  "slug": "shelekhov",
+  "name": "Шелехов",
+  "where": "Шелехове",
+  "region": 38
+ },
+ {
+  "slug": "bagrationovsk",
+  "name": "Багратионовск",
+  "where": "Багратионовске",
+  "region": 39
+ },
+ {
+  "slug": "baltiysk",
+  "name": "Балтийск",
+  "where": "Балтийске",
+  "region": 39
+ },
+ {
+  "slug": "gvardeysk",
+  "name": "Гвардейск",
+  "where": "Гвардейске",
+  "region": 39
+ },
+ {
+  "slug": "gurevsk-kalining",
+  "name": "Гурьевск",
+  "where": "Гурьевске",
+  "region": 39
+ },
+ {
+  "slug": "gusev",
+  "name": "Гусев",
+  "where": "Гусеве",
+  "region": 39
+ },
+ {
+  "slug": "zelenogradsk",
+  "name": "Зеленоградск",
+  "where": "Зеленоградске",
+  "region": 39
+ },
+ {
+  "slug": "kaliningrad",
+  "name": "Калининград",
+  "where": "Калининграде",
+  "region": 39
+ },
+ {
+  "slug": "krasnoznamensk-kalining",
+  "name": "Краснознаменск",
+  "where": "Краснознаменске",
+  "region": 39
+ },
+ {
+  "slug": "ladushkin",
+  "name": "Ладушкин",
+  "where": "Ладушкине",
+  "region": 39
+ },
+ {
+  "slug": "mamonovo",
+  "name": "Мамоново",
+  "where": "Мамонове",
+  "region": 39
+ },
+ {
+  "slug": "neman",
+  "name": "Неман",
+  "where": "Немане",
+  "region": 39
+ },
+ {
+  "slug": "nesterov",
+  "name": "Нестеров",
+  "where": "Нестерове",
+  "region": 39
+ },
+ {
+  "slug": "ozersk-kalining",
+  "name": "Озерск",
+  "where": "Озерске",
+  "region": 39
+ },
+ {
+  "slug": "pionerskiy",
+  "name": "Пионерский",
+  "where": "Пионерском",
+  "region": 39
+ },
+ {
+  "slug": "polessk",
+  "name": "Полесск",
+  "where": "Полесске",
+  "region": 39
+ },
+ {
+  "slug": "pravdinsk",
+  "name": "Правдинск",
+  "where": "Правдинске",
+  "region": 39
+ },
+ {
+  "slug": "primorsk-kalinig",
+  "name": "Приморск",
+  "where": "Приморске",
+  "region": 39
+ },
+ {
+  "slug": "svetlogorsk",
+  "name": "Светлогорск",
+  "where": "Светлогорске",
+  "region": 39
+ },
+ {
+  "slug": "svetlyy",
+  "name": "Светлый",
+  "where": "Светлом",
+  "region": 39
+ },
+ {
+  "slug": "slavsk",
+  "name": "Славск",
+  "where": "Славске",
+  "region": 39
+ },
+ {
+  "slug": "sovetsk-kalinig",
+  "name": "Советск",
+  "where": "Советске",
+  "region": 39
+ },
+ {
+  "slug": "chernyakhovsk",
+  "name": "Черняховск",
+  "where": "Черняховске",
+  "region": 39
+ },
+ {
+  "slug": "balabanovo",
+  "name": "Балабаново",
+  "where": "Балабанове",
+  "region": 40
+ },
+ {
+  "slug": "belousovo",
+  "name": "Белоусово",
+  "where": "Белоусове",
+  "region": 40
+ },
+ {
+  "slug": "borovsk",
+  "name": "Боровск",
+  "where": "Боровске",
+  "region": 40
+ },
+ {
+  "slug": "ermolino",
+  "name": "Ермолино",
+  "where": "Ермолино",
+  "region": 40
+ },
+ {
+  "slug": "zhizdra",
+  "name": "Жиздра",
+  "where": "Жиздре",
+  "region": 40
+ },
+ {
+  "slug": "zhukov",
+  "name": "Жуков",
+  "where": "Жукове",
+  "region": 40
+ },
+ {
+  "slug": "kaluga",
+  "name": "Калуга",
+  "where": "Калуге",
+  "region": 40
+ },
+ {
+  "slug": "kirov-kaluzhsk",
+  "name": "Киров",
+  "where": "Кирове",
+  "region": 40
+ },
+ {
+  "slug": "kozelsk",
+  "name": "Козельск",
+  "where": "Козельске",
+  "region": 40
+ },
+ {
+  "slug": "kondrovo",
+  "name": "Кондрово",
+  "where": "Кондрове",
+  "region": 40
+ },
+ {
+  "slug": "kremenki",
+  "name": "Кременки",
+  "where": "Кременках",
+  "region": 40
+ },
+ {
+  "slug": "lyudinovo",
+  "name": "Людиново",
+  "where": "Людинове",
+  "region": 40
+ },
+ {
+  "slug": "maloyaroslavets",
+  "name": "Малоярославец",
+  "where": "Малоярославце",
+  "region": 40
+ },
+ {
+  "slug": "medyn",
+  "name": "Медынь",
+  "where": "Медыни",
+  "region": 40
+ },
+ {
+  "slug": "meschovsk",
+  "name": "Мещовск",
+  "where": "Мещовске",
+  "region": 40
+ },
+ {
+  "slug": "mosalsk",
+  "name": "Мосальск",
+  "where": "Мосальске",
+  "region": 40
+ },
+ {
+  "slug": "obninsk",
+  "name": "Обнинск",
+  "where": "Обнинске",
+  "region": 40
+ },
+ {
+  "slug": "sosenskiy",
+  "name": "Сосенский",
+  "where": "Сосенске",
+  "region": 40
+ },
+ {
+  "slug": "spas-demensk",
+  "name": "Спас-Деменск",
+  "where": "Спасе-Деменске",
+  "region": 40
+ },
+ {
+  "slug": "sukhinichi",
+  "name": "Сухиничи",
+  "where": "Сухиничах",
+  "region": 40
+ },
+ {
+  "slug": "tarusa",
+  "name": "Таруса",
+  "where": "Тарусе",
+  "region": 40
+ },
+ {
+  "slug": "yukhnov",
+  "name": "Юхнов",
+  "where": "Юхнове",
+  "region": 40
+ },
+ {
+  "slug": "vilyuchinsk",
+  "name": "Вилючинск",
+  "where": "Вилючинске",
+  "region": 41
+ },
+ {
+  "slug": "elizovo",
+  "name": "Елизово",
+  "where": "Елизове",
+  "region": 41
+ },
+ {
+  "slug": "petropavlovsk-kamchatskiy",
+  "name": "Петропавловск-Камчатский",
+  "where": "Петропавловске-Камчатском",
+  "region": 41
+ },
+ {
+  "slug": "anzhero-sudzhensk",
+  "name": "Анжеро-Судженск",
+  "where": "Анжеро-Судженске",
+  "region": 42
+ },
+ {
+  "slug": "belovo",
+  "name": "Белово",
+  "where": "Белове",
+  "region": 42
+ },
+ {
+  "slug": "berezovskiy-kemer",
+  "name": "Березовский",
+  "where": "Березовском",
+  "region": 42
+ },
+ {
+  "slug": "gurevsk-kemer",
+  "name": "Гурьевск",
+  "where": "Гурьевске",
+  "region": 42
+ },
+ {
+  "slug": "kaltan",
+  "name": "Калтан",
+  "where": "Калтане",
+  "region": 42
+ },
+ {
+  "slug": "kemerovo",
+  "name": "Кемерово",
+  "where": "Кемерове",
+  "region": 42
+ },
+ {
+  "slug": "kiselevsk",
+  "name": "Киселевск",
+  "where": "Киселевске",
+  "region": 42
+ },
+ {
+  "slug": "leninsk-kuznetskiy",
+  "name": "Ленинск-Кузнецкий",
+  "where": "Ленинске-Кузнецком",
+  "region": 42
+ },
+ {
+  "slug": "mariinsk",
+  "name": "Мариинск",
+  "where": "Мариинске",
+  "region": 42
+ },
+ {
+  "slug": "mezhdurechensk",
+  "name": "Междуреченск",
+  "where": "Междуреченске",
+  "region": 42
+ },
+ {
+  "slug": "myski",
+  "name": "Мыски",
+  "where": "Мысках",
+  "region": 42
+ },
+ {
+  "slug": "novokuznetsk",
+  "name": "Новокузнецк",
+  "where": "Новокузнецке",
+  "region": 42
+ },
+ {
+  "slug": "osinniki",
+  "name": "Осинники",
+  "where": "Осинниках",
+  "region": 42
+ },
+ {
+  "slug": "polysaevo",
+  "name": "Полысаево",
+  "where": "Полысаево",
+  "region": 42
+ },
+ {
+  "slug": "prokopevsk",
+  "name": "Прокопьевск",
+  "where": "Прокопьевске",
+  "region": 42
+ },
+ {
+  "slug": "salair",
+  "name": "Салаир",
+  "where": "Салаире",
+  "region": 42
+ },
+ {
+  "slug": "tayga",
+  "name": "Тайга",
+  "where": "Тайге",
+  "region": 42
+ },
+ {
+  "slug": "tashtagol",
+  "name": "Таштагол",
+  "where": "Таштаголе",
+  "region": 42
+ },
+ {
+  "slug": "topki",
+  "name": "Топки",
+  "where": "Топках",
+  "region": 42
+ },
+ {
+  "slug": "yurga",
+  "name": "Юрга",
+  "where": "Юрге",
+  "region": 42
+ },
+ {
+  "slug": "belaya kholunitsa",
+  "name": "Белая Холуница",
+  "where": "Белой Холунице",
+  "region": 43
+ },
+ {
+  "slug": "vyatskie polyany",
+  "name": "Вятские Поляны",
+  "where": "Вятских Полянах",
+  "region": 43
+ },
+ {
+  "slug": "zuevka",
+  "name": "Зуевка",
+  "where": "Зуевке",
+  "region": 43
+ },
+ {
+  "slug": "kirov-kirovsk",
+  "name": "Киров",
+  "where": "Кирове",
+  "region": 43
+ },
+ {
+  "slug": "kirovo-chepetsk",
+  "name": "Кирово-Чепецк",
+  "where": "Кирово-Чепецке",
+  "region": 43
+ },
+ {
+  "slug": "kirs",
+  "name": "Кирс",
+  "where": "Кирсе",
+  "region": 43
+ },
+ {
+  "slug": "kotelnich",
+  "name": "Котельнич",
+  "where": "Котельниче",
+  "region": 43
+ },
+ {
+  "slug": "luza",
+  "name": "Луза",
+  "where": "Лузе",
+  "region": 43
+ },
+ {
+  "slug": "malmyzh",
+  "name": "Малмыж",
+  "where": "Малмыже",
+  "region": 43
+ },
+ {
+  "slug": "murashi",
+  "name": "Мураши",
+  "where": "Мурашах",
+  "region": 43
+ },
+ {
+  "slug": "nolinsk",
+  "name": "Нолинск",
+  "where": "Нолинске",
+  "region": 43
+ },
+ {
+  "slug": "omutninsk",
+  "name": "Омутнинск",
+  "where": "Омутнинске",
+  "region": 43
+ },
+ {
+  "slug": "orlov",
+  "name": "Орлов",
+  "where": "Орлове",
+  "region": 43
+ },
+ {
+  "slug": "slobodskoy",
+  "name": "Слободской",
+  "where": "Слободском",
+  "region": 43
+ },
+ {
+  "slug": "sovetsk-kirov",
+  "name": "Советск",
+  "where": "Советске",
+  "region": 43
+ },
+ {
+  "slug": "sosnovka",
+  "name": "Сосновка",
+  "where": "Сосновке",
+  "region": 43
+ },
+ {
+  "slug": "urzhum",
+  "name": "Уржум",
+  "where": "Уржуме",
+  "region": 43
+ },
+ {
+  "slug": "yaransk",
+  "name": "Яранск",
+  "where": "Яранске",
+  "region": 43
+ },
+ {
+  "slug": "buy",
+  "name": "Буй",
+  "where": "Буе",
+  "region": 44
+ },
+ {
+  "slug": "volgorechensk",
+  "name": "Волгореченск",
+  "where": "Волгореченске",
+  "region": 44
+ },
+ {
+  "slug": "galich",
+  "name": "Галич",
+  "where": "Галиче",
+  "region": 44
+ },
+ {
+  "slug": "kologriv",
+  "name": "Кологрив",
+  "where": "Кологриве",
+  "region": 44
+ },
+ {
+  "slug": "kostroma",
+  "name": "Кострома",
+  "where": "Костроме",
+  "region": 44
+ },
+ {
+  "slug": "makarev",
+  "name": "Макарьев",
+  "where": "Макарьеве",
+  "region": 44
+ },
+ {
+  "slug": "manturovo",
+  "name": "Мантурово",
+  "where": "Мантурове",
+  "region": 44
+ },
+ {
+  "slug": "nerekhta",
+  "name": "Нерехта",
+  "where": "Нерехте",
+  "region": 44
+ },
+ {
+  "slug": "neya",
+  "name": "Нея",
+  "where": "Нее",
+  "region": 44
+ },
+ {
+  "slug": "soligalich",
+  "name": "Солигалич",
+  "where": "Солигаличе",
+  "region": 44
+ },
+ {
+  "slug": "chukhloma",
+  "name": "Чухлома",
+  "where": "Чухломе",
+  "region": 44
+ },
+ {
+  "slug": "sharya",
+  "name": "Шарья",
+  "where": "Шарье",
+  "region": 44
+ },
+ {
+  "slug": "dalmatovo",
+  "name": "Далматово",
+  "where": "Далматове",
+  "region": 45
+ },
+ {
+  "slug": "kataysk",
+  "name": "Катайск",
+  "where": "Катайске",
+  "region": 45
+ },
+ {
+  "slug": "kurgan",
+  "name": "Курган",
+  "where": "Кургане",
+  "region": 45
+ },
+ {
+  "slug": "kurtamysh",
+  "name": "Куртамыш",
+  "where": "Куртамыше",
+  "region": 45
+ },
+ {
+  "slug": "makushino",
+  "name": "Макушино",
+  "where": "Макушине",
+  "region": 45
+ },
+ {
+  "slug": "petukhovo",
+  "name": "Петухово",
+  "where": "Петухове",
+  "region": 45
+ },
+ {
+  "slug": "shadrinsk",
+  "name": "Шадринск",
+  "where": "Шадринске",
+  "region": 45
+ },
+ {
+  "slug": "shumikha",
+  "name": "Шумиха",
+  "where": "Шумихе",
+  "region": 45
+ },
+ {
+  "slug": "schuche",
+  "name": "Щучье",
+  "where": "Щучьем",
+  "region": 45
+ },
+ {
+  "slug": "dmitriev",
+  "name": "Дмитриев",
+  "where": "Дмитриеве",
+  "region": 46
+ },
+ {
+  "slug": "zheleznogorsk-kursk",
+  "name": "Железногорск",
+  "where": "Железногорске",
+  "region": 46
+ },
+ {
+  "slug": "kursk",
+  "name": "Курск",
+  "where": "Курске",
+  "region": 46
+ },
+ {
+  "slug": "kurchatov",
+  "name": "Курчатов",
+  "where": "Курчатове",
+  "region": 46
+ },
+ {
+  "slug": "lgov",
+  "name": "Льгов",
+  "where": "Льгове",
+  "region": 46
+ },
+ {
+  "slug": "oboyan",
+  "name": "Обоянь",
+  "where": "Обояни",
+  "region": 46
+ },
+ {
+  "slug": "rylsk",
+  "name": "Рыльск",
+  "where": "Рыльске",
+  "region": 46
+ },
+ {
+  "slug": "sudzha",
+  "name": "Суджа",
+  "where": "Судже",
+  "region": 46
+ },
+ {
+  "slug": "fatezh",
+  "name": "Фатеж",
+  "where": "Фатеже",
+  "region": 46
+ },
+ {
+  "slug": "schigry",
+  "name": "Щигры",
+  "where": "Щиграх",
+  "region": 46
+ },
+ {
+  "slug": "boksitogorsk",
+  "name": "Бокситогорск",
+  "where": "Бокситогорске",
+  "region": 47
+ },
+ {
+  "slug": "volosovo",
+  "name": "Волосово",
+  "where": "Волосове",
+  "region": 47
+ },
+ {
+  "slug": "volkhov",
+  "name": "Волхов",
+  "where": "Волхове",
+  "region": 47
+ },
+ {
+  "slug": "vsevolozhsk",
+  "name": "Всеволожск",
+  "where": "Всеволожске",
+  "region": 47
+ },
+ {
+  "slug": "vyborg",
+  "name": "Выборг",
+  "where": "Выборге",
+  "region": 47
+ },
+ {
+  "slug": "vysotsk",
+  "name": "Высоцк",
+  "where": "Высоцке",
+  "region": 47
+ },
+ {
+  "slug": "gatchina",
+  "name": "Гатчина",
+  "where": "Гатчине",
+  "region": 47
+ },
+ {
+  "slug": "ivangorod",
+  "name": "Ивангород",
+  "where": "Ивангороде",
+  "region": 47
+ },
+ {
+  "slug": "kamennogorsk",
+  "name": "Каменногорск",
+  "where": "Каменногорске",
+  "region": 47
+ },
+ {
+  "slug": "kingisepp",
+  "name": "Кингисепп",
+  "where": "Кингисеппе",
+  "region": 47
+ },
+ {
+  "slug": "kirishi",
+  "name": "Кириши",
+  "where": "Киришах",
+  "region": 47
+ },
+ {
+  "slug": "kirovsk-leningrad",
+  "name": "Кировск",
+  "where": "Кировске",
+  "region": 47
+ },
+ {
+  "slug": "kommunar",
+  "name": "Коммунар",
+  "where": "Коммунаре",
+  "region": 47
+ },
+ {
+  "slug": "lodeynoe pole",
+  "name": "Лодейное Поле",
+  "where": "Лодейном Поле",
+  "region": 47
+ },
+ {
+  "slug": "luga",
+  "name": "Луга",
+  "where": "Луге",
+  "region": 47
+ },
+ {
+  "slug": "lyuban",
+  "name": "Любань",
+  "where": "Любань",
+  "region": 47
+ },
+ {
+  "slug": "nikolskoe",
+  "name": "Никольское",
+  "where": "Никольском",
+  "region": 47
+ },
+ {
+  "slug": "novayaladoga",
+  "name": "Новая Ладога",
+  "where": "Новой Ладоге",
+  "region": 47
+ },
+ {
+  "slug": "otradnoe",
+  "name": "Отрадное",
+  "where": "Отрадном",
+  "region": 47
+ },
+ {
+  "slug": "pikalevo",
+  "name": "Пикалево",
+  "where": "Пикалево",
+  "region": 47
+ },
+ {
+  "slug": "podporozhe",
+  "name": "Подпорожье",
+  "where": "Подпорожье",
+  "region": 47
+ },
+ {
+  "slug": "primorsk-leningrad",
+  "name": "Приморск",
+  "where": "Приморске",
+  "region": 47
+ },
+ {
+  "slug": "priozersk",
+  "name": "Приозерск",
+  "where": "Приозерске",
+  "region": 47
+ },
+ {
+  "slug": "svetogorsk",
+  "name": "Светогорск",
+  "where": "Светогорске",
+  "region": 47
+ },
+ {
+  "slug": "sertolovo",
+  "name": "Сертолово",
+  "where": "Сертолово",
+  "region": 47
+ },
+ {
+  "slug": "slantsy",
+  "name": "Сланцы",
+  "where": "Сланцах",
+  "region": 47
+ },
+ {
+  "slug": "sosnovyybor",
+  "name": "Сосновый Бор",
+  "where": "Сосновом Боре",
+  "region": 47
+ },
+ {
+  "slug": "syasstroy",
+  "name": "Сясьстрой",
+  "where": "Сясьстрое",
+  "region": 47
+ },
+ {
+  "slug": "tikhvin",
+  "name": "Тихвин",
+  "where": "Тихвине",
+  "region": 47
+ },
+ {
+  "slug": "tosno",
+  "name": "Тосно",
+  "where": "Тосно",
+  "region": 47
+ },
+ {
+  "slug": "shlisselburg",
+  "name": "Шлиссельбург",
+  "where": "Шлиссельбурге",
+  "region": 47
+ },
+ {
+  "slug": "gryazi",
+  "name": "Грязи",
+  "where": "Грязях",
+  "region": 48
+ },
+ {
+  "slug": "dankov",
+  "name": "Данков",
+  "where": "Данкове",
+  "region": 48
+ },
+ {
+  "slug": "elets",
+  "name": "Елец",
+  "where": "Ельце",
+  "region": 48
+ },
+ {
+  "slug": "zadonsk",
+  "name": "Задонск",
+  "where": "Задонске",
+  "region": 48
+ },
+ {
+  "slug": "lebedyan",
+  "name": "Лебедянь",
+  "where": "Лебедяни",
+  "region": 48
+ },
+ {
+  "slug": "lipetsk",
+  "name": "Липецк",
+  "where": "Липецке",
+  "region": 48
+ },
+ {
+  "slug": "usman",
+  "name": "Усмань",
+  "where": "Усмани",
+  "region": 48
+ },
+ {
+  "slug": "chaplygin",
+  "name": "Чаплыгин",
+  "where": "Чаплыгине",
+  "region": 48
+ },
+ {
+  "slug": "magadan",
+  "name": "Магадан",
+  "where": "Магадане",
+  "region": 49
+ },
+ {
+  "slug": "susuman",
+  "name": "Сусуман",
+  "where": "Сусумане",
+  "region": 49
+ },
+ {
+  "slug": "aprelevka",
+  "name": "Апрелевка",
+  "where": "Апрелевке",
+  "region": 50
+ },
+ {
+  "slug": "balashikha",
+  "name": "Балашиха",
+  "where": "Балашихе",
+  "region": 50
+ },
+ {
+  "slug": "bronnitsy",
+  "name": "Бронницы",
+  "where": "Бронницах",
+  "region": 50
+ },
+ {
+  "slug": "vereya",
+  "name": "Верея",
+  "where": "Верее",
+  "region": 50
+ },
+ {
+  "slug": "vidnoe",
+  "name": "Видное",
+  "where": "Видном",
+  "region": 50
+ },
+ {
+  "slug": "volokolamsk",
+  "name": "Волоколамск",
+  "where": "Волоколамске",
+  "region": 50
+ },
+ {
+  "slug": "voskresensk",
+  "name": "Воскресенск",
+  "where": "Воскресенске",
+  "region": 50
+ },
+ {
+  "slug": "vysokovsk",
+  "name": "Высоковск",
+  "where": "Высоковске",
+  "region": 50
+ },
+ {
+  "slug": "golitsyno",
+  "name": "Голицыно",
+  "where": "Голицыно",
+  "region": 50
+ },
+ {
+  "slug": "gorodskoyokrugchernogolovka",
+  "name": "Городской округ Черноголовка",
+  "where": "Городском округе Черноголовка",
+  "region": 50
+ },
+ {
+  "slug": "dedovsk",
+  "name": "Дедовск",
+  "where": "Дедовске",
+  "region": 50
+ },
+ {
+  "slug": "dzerzhinskiy",
+  "name": "Дзержинский",
+  "where": "Дзержинском",
+  "region": 50
+ },
+ {
+  "slug": "dmitrov",
+  "name": "Дмитров",
+  "where": "Дмитрове",
+  "region": 50
+ },
+ {
+  "slug": "dolgoprudnyy",
+  "name": "Долгопрудный",
+  "where": "Долгопрудном",
+  "region": 50
+ },
+ {
+  "slug": "domodedovo",
+  "name": "Домодедово",
+  "where": "Домодедове",
+  "region": 50
+ },
+ {
+  "slug": "drezna",
+  "name": "Дрезна",
+  "where": "Дрезне",
+  "region": 50
+ },
+ {
+  "slug": "dubna",
+  "name": "Дубна",
+  "where": "Дубне",
+  "region": 50
+ },
+ {
+  "slug": "egorevsk",
+  "name": "Егорьевск",
+  "where": "Егорьевске",
+  "region": 50
+ },
+ {
+  "slug": "zheleznodorozhnyy",
+  "name": "Железнодорожный",
+  "where": "Железнодорожном",
+  "region": 50
+ },
+ {
+  "slug": "zhukovskiy",
+  "name": "Жуковский",
+  "where": "Жуковском",
+  "region": 50
+ },
+ {
+  "slug": "zaraysk",
+  "name": "Зарайск",
+  "where": "Зарайске",
+  "region": 50
+ },
+ {
+  "slug": "zvenigorod",
+  "name": "Звенигород",
+  "where": "Звенигороде",
+  "region": 50
+ },
+ {
+  "slug": "ivanteevka",
+  "name": "Ивантеевка",
+  "where": "Ивантеевке",
+  "region": 50
+ },
+ {
+  "slug": "istra",
+  "name": "Истра",
+  "where": "Истре",
+  "region": 50
+ },
+ {
+  "slug": "kashira",
+  "name": "Кашира",
+  "where": "Кашире",
+  "region": 50
+ },
+ {
+  "slug": "klimovsk",
+  "name": "Климовск",
+  "where": "Климовске",
+  "region": 50
+ },
+ {
+  "slug": "klin",
+  "name": "Клин",
+  "where": "Клине",
+  "region": 50
+ },
+ {
+  "slug": "kolomna",
+  "name": "Коломна",
+  "where": "Коломне",
+  "region": 50
+ },
+ {
+  "slug": "korolev",
+  "name": "Королев",
+  "where": "Королеве",
+  "region": 50
+ },
+ {
+  "slug": "kotelniki",
+  "name": "Котельники",
+  "where": "Котельниках",
+  "region": 50
+ },
+ {
+  "slug": "krasnoarmeysk-moskov",
+  "name": "Красноармейск",
+  "where": "Красноармейске",
+  "region": 50
+ },
+ {
+  "slug": "krasnogorsk",
+  "name": "Красногорск",
+  "where": "Красногорске",
+  "region": 50
+ },
+ {
+  "slug": "krasnozavodsk",
+  "name": "Краснозаводск",
+  "where": "Краснозаводске",
+  "region": 50
+ },
+ {
+  "slug": "krasnoznamensk-moskow",
+  "name": "Краснознаменск",
+  "where": "Краснознаменске",
+  "region": 50
+ },
+ {
+  "slug": "kubinka",
+  "name": "Кубинка",
+  "where": "Кубинке",
+  "region": 50
+ },
+ {
+  "slug": "kurovskoe",
+  "name": "Куровское",
+  "where": "Куровском",
+  "region": 50
+ },
+ {
+  "slug": "likino-dulevo",
+  "name": "Ликино-Дулево",
+  "where": "Ликино-Дулево",
+  "region": 50
+ },
+ {
+  "slug": "lobnya",
+  "name": "Лобня",
+  "where": "Лобне",
+  "region": 50
+ },
+ {
+  "slug": "losino-petrovskiy",
+  "name": "Лосино-Петровский",
+  "where": "Лосино-Петровском",
+  "region": 50
+ },
+ {
+  "slug": "lukhovitsy",
+  "name": "Луховицы",
+  "where": "Луховицах",
+  "region": 50
+ },
+ {
+  "slug": "lytkarino",
+  "name": "Лыткарино",
+  "where": "Лыткарине",
+  "region": 50
+ },
+ {
+  "slug": "lyubertsy",
+  "name": "Люберцы",
+  "where": "Люберцах",
+  "region": 50
+ },
+ {
+  "slug": "mozhaysk",
+  "name": "Можайск",
+  "where": "Можайске",
+  "region": 50
+ },
+ {
+  "slug": "mytischi",
+  "name": "Мытищи",
+  "where": "Мытищах",
+  "region": 50
+ },
+ {
+  "slug": "naro-fominsk",
+  "name": "Наро-Фоминск",
+  "where": "Наро-Фоминске",
+  "region": 50
+ },
+ {
+  "slug": "noginsk",
+  "name": "Ногинск",
+  "where": "Ногинске",
+  "region": 50
+ },
+ {
+  "slug": "odintsovo",
+  "name": "Одинцово",
+  "where": "Одинцове",
+  "region": 50
+ },
+ {
+  "slug": "ozherele",
+  "name": "Ожерелье",
+  "where": "Ожерелье",
+  "region": 50
+ },
+ {
+  "slug": "ozery",
+  "name": "Озеры",
+  "where": "Озерах",
+  "region": 50
+ },
+ {
+  "slug": "orekhovo-zuevo",
+  "name": "Орехово-Зуево",
+  "where": "Орехово-Зуево",
+  "region": 50
+ },
+ {
+  "slug": "pavlovskiyposad",
+  "name": "Павловский Посад",
+  "where": "Павловском Посаде",
+  "region": 50
+ },
+ {
+  "slug": "peresvet",
+  "name": "Пересвет",
+  "where": "Пересвете",
+  "region": 50
+ },
+ {
+  "slug": "podolsk",
+  "name": "Подольск",
+  "where": "Подольске",
+  "region": 50
+ },
+ {
+  "slug": "protvino",
+  "name": "Протвино",
+  "where": "Протвине",
+  "region": 50
+ },
+ {
+  "slug": "pushkino",
+  "name": "Пушкино",
+  "where": "Пушкине",
+  "region": 50
+ },
+ {
+  "slug": "puschino",
+  "name": "Пущино",
+  "where": "Пущине",
+  "region": 50
+ },
+ {
+  "slug": "ramenskoe",
+  "name": "Раменское",
+  "where": "Раменском",
+  "region": 50
+ },
+ {
+  "slug": "reutov",
+  "name": "Реутов",
+  "where": "Реутове",
+  "region": 50
+ },
+ {
+  "slug": "roshal",
+  "name": "Рошаль",
+  "where": "Рошале",
+  "region": 50
+ },
+ {
+  "slug": "ruza",
+  "name": "Руза",
+  "where": "Рузе",
+  "region": 50
+ },
+ {
+  "slug": "sergievposad",
+  "name": "Сергиев Посад",
+  "where": "Сергиевом Посаде",
+  "region": 50
+ },
+ {
+  "slug": "serpukhov",
+  "name": "Серпухов",
+  "where": "Серпухове",
+  "region": 50
+ },
+ {
+  "slug": "snegiri",
+  "name": "Снегири",
+  "where": "Снегирях",
+  "region": 50
+ },
+ {
+  "slug": "solnechnogorsk",
+  "name": "Солнечногорск",
+  "where": "Солнечногорске",
+  "region": 50
+ },
+ {
+  "slug": "starayakupavna",
+  "name": "Старая Купавна",
+  "where": "Старой Купавне",
+  "region": 50
+ },
+ {
+  "slug": "stupino",
+  "name": "Ступино",
+  "where": "Ступине",
+  "region": 50
+ },
+ {
+  "slug": "taldom",
+  "name": "Талдом",
+  "where": "Талдоме",
+  "region": 50
+ },
+ {
+  "slug": "fryazino",
+  "name": "Фрязино",
+  "where": "Фрязине",
+  "region": 50
+ },
+ {
+  "slug": "khimki",
+  "name": "Химки",
+  "where": "Химках",
+  "region": 50
+ },
+ {
+  "slug": "khotkovo",
+  "name": "Хотьково",
+  "where": "Хотькове",
+  "region": 50
+ },
+ {
+  "slug": "chernogolovka",
+  "name": "Черноголовка",
+  "where": "Черноголовке",
+  "region": 50
+ },
+ {
+  "slug": "chekhov",
+  "name": "Чехов",
+  "where": "Чехове",
+  "region": 50
+ },
+ {
+  "slug": "shatura",
+  "name": "Шатура",
+  "where": "Шатуре",
+  "region": 50
+ },
+ {
+  "slug": "schelkovo",
+  "name": "Щелково",
+  "where": "Щелкове",
+  "region": 50
+ },
+ {
+  "slug": "elektrogorsk",
+  "name": "Электрогорск",
+  "where": "Электрогорске",
+  "region": 50
+ },
+ {
+  "slug": "elektrostal",
+  "name": "Электросталь",
+  "where": "Электростали",
+  "region": 50
+ },
+ {
+  "slug": "elektrougli",
+  "name": "Электроугли",
+  "where": "Электроуглях",
+  "region": 50
+ },
+ {
+  "slug": "yubileynyy",
+  "name": "Юбилейный",
+  "where": "Юбилейном",
+  "region": 50
+ },
+ {
+  "slug": "yakhroma",
+  "name": "Яхрома",
+  "where": "Яхроме",
+  "region": 50
+ },
+ {
+  "slug": "apatity",
+  "name": "Апатиты",
+  "where": "Апатитах",
+  "region": 51
+ },
+ {
+  "slug": "gadzhievo",
+  "name": "Гаджиево",
+  "where": "Гаджиево",
+  "region": 51
+ },
+ {
+  "slug": "zaozersk",
+  "name": "Заозерск",
+  "where": "Заозерске",
+  "region": 51
+ },
+ {
+  "slug": "zapolyarnyy",
+  "name": "Заполярный",
+  "where": "Заполярном",
+  "region": 51
+ },
+ {
+  "slug": "kandalaksha",
+  "name": "Кандалакша",
+  "where": "Кандалакше",
+  "region": 51
+ },
+ {
+  "slug": "kirovsk-murmansk",
+  "name": "Кировск",
+  "where": "Кировске",
+  "region": 51
+ },
+ {
+  "slug": "kovdor",
+  "name": "Ковдор",
+  "where": "Ковдоре",
+  "region": 51
+ },
+ {
+  "slug": "kola",
+  "name": "Кола",
+  "where": "Коле",
+  "region": 51
+ },
+ {
+  "slug": "monchegorsk",
+  "name": "Мончегорск",
+  "where": "Мончегорске",
+  "region": 51
+ },
+ {
+  "slug": "murmansk",
+  "name": "Мурманск",
+  "where": "Мурманске",
+  "region": 51
+ },
+ {
+  "slug": "olenegorsk",
+  "name": "Оленегорск",
+  "where": "Оленегорске",
+  "region": 51
+ },
+ {
+  "slug": "ostrovnoy",
+  "name": "Островной",
+  "where": "Островном",
+  "region": 51
+ },
+ {
+  "slug": "polyarnyezori",
+  "name": "Полярные Зори",
+  "where": "Полярных Зорях",
+  "region": 51
+ },
+ {
+  "slug": "polyarnyy",
+  "name": "Полярный",
+  "where": "Полярном",
+  "region": 51
+ },
+ {
+  "slug": "severomorsk",
+  "name": "Североморск",
+  "where": "Североморске",
+  "region": 51
+ },
+ {
+  "slug": "snezhnogorsk",
+  "name": "Снежногорск",
+  "where": "Снежногорске",
+  "region": 51
+ },
+ {
+  "slug": "arzamas",
+  "name": "Арзамас",
+  "where": "Арзамасе",
+  "region": 52
+ },
+ {
+  "slug": "balakhna",
+  "name": "Балахна",
+  "where": "Балахне",
+  "region": 52
+ },
+ {
+  "slug": "bogorodsk",
+  "name": "Богородск",
+  "where": "Богородске",
+  "region": 52
+ },
+ {
+  "slug": "bor",
+  "name": "Бор",
+  "where": "Боре",
+  "region": 52
+ },
+ {
+  "slug": "vetluga",
+  "name": "Ветлуга",
+  "where": "Ветлуге",
+  "region": 52
+ },
+ {
+  "slug": "volodarsk",
+  "name": "Володарск",
+  "where": "Володарске",
+  "region": 52
+ },
+ {
+  "slug": "vorsma",
+  "name": "Ворсма",
+  "where": "Ворсме",
+  "region": 52
+ },
+ {
+  "slug": "vyksa",
+  "name": "Выкса",
+  "where": "Выксе",
+  "region": 52
+ },
+ {
+  "slug": "gorbatov",
+  "name": "Горбатов",
+  "where": "Горбатове",
+  "region": 52
+ },
+ {
+  "slug": "gorodets",
+  "name": "Городец",
+  "where": "Городце",
+  "region": 52
+ },
+ {
+  "slug": "dzerzhinsk",
+  "name": "Дзержинск",
+  "where": "Дзержинске",
+  "region": 52
+ },
+ {
+  "slug": "zavolzhe",
+  "name": "Заволжье",
+  "where": "Заволжье",
+  "region": 52
+ },
+ {
+  "slug": "knyaginino",
+  "name": "Княгинино",
+  "where": "Княгинине",
+  "region": 52
+ },
+ {
+  "slug": "kstovo",
+  "name": "Кстово",
+  "where": "Кстове",
+  "region": 52
+ },
+ {
+  "slug": "kulebaki",
+  "name": "Кулебаки",
+  "where": "Кулебаках",
+  "region": 52
+ },
+ {
+  "slug": "lukoyanov",
+  "name": "Лукоянов",
+  "where": "Лукоянове",
+  "region": 52
+ },
+ {
+  "slug": "lyskovo",
+  "name": "Лысково",
+  "where": "Лыскове",
+  "region": 52
+ },
+ {
+  "slug": "navashino",
+  "name": "Навашино",
+  "where": "Навашине",
+  "region": 52
+ },
+ {
+  "slug": "nizhniynovgorod",
+  "name": "Нижний Новгород",
+  "where": "Нижнем Новгороде",
+  "region": 52
+ },
+ {
+  "slug": "pavlovo",
+  "name": "Павлово",
+  "where": "Павлове",
+  "region": 52
+ },
+ {
+  "slug": "pervomaysk",
+  "name": "Первомайск",
+  "where": "Первомайске",
+  "region": 52
+ },
+ {
+  "slug": "perevoz",
+  "name": "Перевоз",
+  "where": "Перевозе",
+  "region": 52
+ },
+ {
+  "slug": "sarov",
+  "name": "Саров",
+  "where": "Сарове",
+  "region": 52
+ },
+ {
+  "slug": "semenov",
+  "name": "Семенов",
+  "where": "Семеновом",
+  "region": 52
+ },
+ {
+  "slug": "sergach",
+  "name": "Сергач",
+  "where": "Сергаче",
+  "region": 52
+ },
+ {
+  "slug": "uren",
+  "name": "Урень",
+  "where": "Урене",
+  "region": 52
+ },
+ {
+  "slug": "chkalovsk",
+  "name": "Чкаловск",
+  "where": "Чкаловске",
+  "region": 52
+ },
+ {
+  "slug": "shakhunya",
+  "name": "Шахунья",
+  "where": "Шахунье",
+  "region": 52
+ },
+ {
+  "slug": "borovichi",
+  "name": "Боровичи",
+  "where": "Боровичах",
+  "region": 53
+ },
+ {
+  "slug": "valday",
+  "name": "Валдай",
+  "where": "Валдае",
+  "region": 53
+ },
+ {
+  "slug": "velikiynovgorod",
+  "name": "Великий Новгород",
+  "where": "Великом Новгороде",
+  "region": 53
+ },
+ {
+  "slug": "malayavishera",
+  "name": "Малая Вишера",
+  "where": "Малой Вишере",
+  "region": 53
+ },
+ {
+  "slug": "okulovka",
+  "name": "Окуловка",
+  "where": "Окуловке",
+  "region": 53
+ },
+ {
+  "slug": "pestovo",
+  "name": "Пестово",
+  "where": "Пестове",
+  "region": 53
+ },
+ {
+  "slug": "soltsy",
+  "name": "Сольцы",
+  "where": "Сольцах",
+  "region": 53
+ },
+ {
+  "slug": "starayarussa",
+  "name": "Старая Русса",
+  "where": "Старой Руссе",
+  "region": 53
+ },
+ {
+  "slug": "kholm",
+  "name": "Холм",
+  "where": "Холме",
+  "region": 53
+ },
+ {
+  "slug": "chudovo",
+  "name": "Чудово",
+  "where": "Чудове",
+  "region": 53
+ },
+ {
+  "slug": "barabinsk",
+  "name": "Барабинск",
+  "where": "Барабинске",
+  "region": 54
+ },
+ {
+  "slug": "berdsk",
+  "name": "Бердск",
+  "where": "Бердске",
+  "region": 54
+ },
+ {
+  "slug": "bolotnoe",
+  "name": "Болотное",
+  "where": "Болотном",
+  "region": 54
+ },
+ {
+  "slug": "iskitim",
+  "name": "Искитим",
+  "where": "Искитиме",
+  "region": 54
+ },
+ {
+  "slug": "karasuk",
+  "name": "Карасук",
+  "where": "Карасуке",
+  "region": 54
+ },
+ {
+  "slug": "kargat",
+  "name": "Каргат",
+  "where": "Каргате",
+  "region": 54
+ },
+ {
+  "slug": "kuybyshev",
+  "name": "Куйбышев",
+  "where": "Куйбышеве",
+  "region": 54
+ },
+ {
+  "slug": "kupino",
+  "name": "Купино",
+  "where": "Купине",
+  "region": 54
+ },
+ {
+  "slug": "novosibirsk",
+  "name": "Новосибирск",
+  "where": "Новосибирске",
+  "region": 54
+ },
+ {
+  "slug": "ob",
+  "name": "Обь",
+  "where": "Обь",
+  "region": 54
+ },
+ {
+  "slug": "tatarsk",
+  "name": "Татарск",
+  "where": "Татарске",
+  "region": 54
+ },
+ {
+  "slug": "toguchin",
+  "name": "Тогучин",
+  "where": "Тогучине",
+  "region": 54
+ },
+ {
+  "slug": "cherepanovo",
+  "name": "Черепаново",
+  "where": "Черепанове",
+  "region": 54
+ },
+ {
+  "slug": "chulym",
+  "name": "Чулым",
+  "where": "Чулыме",
+  "region": 54
+ },
+ {
+  "slug": "isilkul",
+  "name": "Исилькуль",
+  "where": "Исилькуле",
+  "region": 55
+ },
+ {
+  "slug": "kalachinsk",
+  "name": "Калачинск",
+  "where": "Калачинске",
+  "region": 55
+ },
+ {
+  "slug": "nazyvaevsk",
+  "name": "Называевск",
+  "where": "Называевске",
+  "region": 55
+ },
+ {
+  "slug": "omsk",
+  "name": "Омск",
+  "where": "Омске",
+  "region": 55
+ },
+ {
+  "slug": "tara",
+  "name": "Тара",
+  "where": "Таре",
+  "region": 55
+ },
+ {
+  "slug": "tyukalinsk",
+  "name": "Тюкалинск",
+  "where": "Тюкалинске",
+  "region": 55
+ },
+ {
+  "slug": "abdulino",
+  "name": "Абдулино",
+  "where": "Абдулине",
+  "region": 56
+ },
+ {
+  "slug": "buguruslan",
+  "name": "Бугуруслан",
+  "where": "Бугуруслане",
+  "region": 56
+ },
+ {
+  "slug": "buzuluk",
+  "name": "Бузулук",
+  "where": "Бузулуке",
+  "region": 56
+ },
+ {
+  "slug": "gay",
+  "name": "Гай",
+  "where": "Гае",
+  "region": 56
+ },
+ {
+  "slug": "kuvandyk",
+  "name": "Кувандык",
+  "where": "Кувандыке",
+  "region": 56
+ },
+ {
+  "slug": "mednogorsk",
+  "name": "Медногорск",
+  "where": "Медногорске",
+  "region": 56
+ },
+ {
+  "slug": "novotroitsk",
+  "name": "Новотроицк",
+  "where": "Новотроицке",
+  "region": 56
+ },
+ {
+  "slug": "orenburg",
+  "name": "Оренбург",
+  "where": "Оренбурге",
+  "region": 56
+ },
+ {
+  "slug": "orsk",
+  "name": "Орск",
+  "where": "Орске",
+  "region": 56
+ },
+ {
+  "slug": "sol-iletsk",
+  "name": "Соль-Илецк",
+  "where": "Соли-Илецк",
+  "region": 56
+ },
+ {
+  "slug": "sorochinsk",
+  "name": "Сорочинск",
+  "where": "Сорочинске",
+  "region": 56
+ },
+ {
+  "slug": "yasnyy",
+  "name": "Ясный",
+  "where": "Ясном",
+  "region": 56
+ },
+ {
+  "slug": "bolkhov",
+  "name": "Болхов",
+  "where": "Болхове",
+  "region": 57
+ },
+ {
+  "slug": "dmitrovsk",
+  "name": "Дмитровск",
+  "where": "Дмитровске",
+  "region": 57
+ },
+ {
+  "slug": "livny",
+  "name": "Ливны",
+  "where": "Ливнах",
+  "region": 57
+ },
+ {
+  "slug": "maloarkhangelsk",
+  "name": "Малоархангельск",
+  "where": "Малоархангельске",
+  "region": 57
+ },
+ {
+  "slug": "mtsensk",
+  "name": "Мценск",
+  "where": "Мценске",
+  "region": 57
+ },
+ {
+  "slug": "novosil",
+  "name": "Новосиль",
+  "where": "Новосиле",
+  "region": 57
+ },
+ {
+  "slug": "orel",
+  "name": "Орел",
+  "where": "Орле",
+  "region": 57
+ },
+ {
+  "slug": "belinskiy",
+  "name": "Белинский",
+  "where": "Белинском",
+  "region": 58
+ },
+ {
+  "slug": "gorodische",
+  "name": "Городище",
+  "where": "Городище",
+  "region": 58
+ },
+ {
+  "slug": "zarechnyy-penza",
+  "name": "Заречный",
+  "where": "Заречном",
+  "region": 58
+ },
+ {
+  "slug": "kamenka",
+  "name": "Каменка",
+  "where": "Каменке",
+  "region": 58
+ },
+ {
+  "slug": "kuznetsk",
+  "name": "Кузнецк",
+  "where": "Кузнецке",
+  "region": 58
+ },
+ {
+  "slug": "nizhniylomov",
+  "name": "Нижний Ломов",
+  "where": "Нижнем Ломове",
+  "region": 58
+ },
+ {
+  "slug": "nikolsk-penza",
+  "name": "Никольск",
+  "where": "Никольске",
+  "region": 58
+ },
+ {
+  "slug": "penza",
+  "name": "Пенза",
+  "where": "Пензе",
+  "region": 58
+ },
+ {
+  "slug": "serdobsk",
+  "name": "Сердобск",
+  "where": "Сердобске",
+  "region": 58
+ },
+ {
+  "slug": "spassk",
+  "name": "Спасск",
+  "where": "Спасске",
+  "region": 58
+ },
+ {
+  "slug": "sursk",
+  "name": "Сурск",
+  "where": "Сурске",
+  "region": 58
+ },
+ {
+  "slug": "aleksandrovsk",
+  "name": "Александровск",
+  "where": "Александровске",
+  "region": 59
+ },
+ {
+  "slug": "berezniki",
+  "name": "Березники",
+  "where": "Березниках",
+  "region": 59
+ },
+ {
+  "slug": "vereschagino",
+  "name": "Верещагино",
+  "where": "Верещагине",
+  "region": 59
+ },
+ {
+  "slug": "gornozavodsk",
+  "name": "Горнозаводск",
+  "where": "Горнозаводске",
+  "region": 59
+ },
+ {
+  "slug": "gremyachinsk",
+  "name": "Гремячинск",
+  "where": "Гремячинске",
+  "region": 59
+ },
+ {
+  "slug": "gubakha",
+  "name": "Губаха",
+  "where": "Губахе",
+  "region": 59
+ },
+ {
+  "slug": "dobryanka",
+  "name": "Добрянка",
+  "where": "Добрянке",
+  "region": 59
+ },
+ {
+  "slug": "kizel",
+  "name": "Кизел",
+  "where": "Кизеле",
+  "region": 59
+ },
+ {
+  "slug": "krasnovishersk",
+  "name": "Красновишерск",
+  "where": "Красновишерске",
+  "region": 59
+ },
+ {
+  "slug": "krasnokamsk",
+  "name": "Краснокамск",
+  "where": "Краснокамске",
+  "region": 59
+ },
+ {
+  "slug": "kudymkar",
+  "name": "Кудымкар",
+  "where": "Кудымкаре",
+  "region": 59
+ },
+ {
+  "slug": "kungur",
+  "name": "Кунгур",
+  "where": "Кунгуре",
+  "region": 59
+ },
+ {
+  "slug": "lysva",
+  "name": "Лысьва",
+  "where": "Лысьве",
+  "region": 59
+ },
+ {
+  "slug": "nytva",
+  "name": "Нытва",
+  "where": "Нытве",
+  "region": 59
+ },
+ {
+  "slug": "osa",
+  "name": "Оса",
+  "where": "Осе",
+  "region": 59
+ },
+ {
+  "slug": "okhansk",
+  "name": "Оханск",
+  "where": "Оханске",
+  "region": 59
+ },
+ {
+  "slug": "ocher",
+  "name": "Очер",
+  "where": "Очере",
+  "region": 59
+ },
+ {
+  "slug": "perm",
+  "name": "Пермь",
+  "where": "Перми",
+  "region": 59
+ },
+ {
+  "slug": "solikamsk",
+  "name": "Соликамск",
+  "where": "Соликамске",
+  "region": 59
+ },
+ {
+  "slug": "usole",
+  "name": "Усолье",
+  "where": "Усолье",
+  "region": 59
+ },
+ {
+  "slug": "chaykovskiy",
+  "name": "Чайковский",
+  "where": "Чайковском",
+  "region": 59
+ },
+ {
+  "slug": "cherdyn",
+  "name": "Чердынь",
+  "where": "Чердыни",
+  "region": 59
+ },
+ {
+  "slug": "chermoz",
+  "name": "Чермоз",
+  "where": "Чермозе",
+  "region": 59
+ },
+ {
+  "slug": "chernushka",
+  "name": "Чернушка",
+  "where": "Чернушке",
+  "region": 59
+ },
+ {
+  "slug": "chusovoy",
+  "name": "Чусовой",
+  "where": "Чусовом",
+  "region": 59
+ },
+ {
+  "slug": "velikieluki",
+  "name": "Великие Луки",
+  "where": "Великих Луках",
+  "region": 60
+ },
+ {
+  "slug": "gdov",
+  "name": "Гдов",
+  "where": "Гдове",
+  "region": 60
+ },
+ {
+  "slug": "dno",
+  "name": "Дно",
+  "where": "Дне",
+  "region": 60
+ },
+ {
+  "slug": "nevel",
+  "name": "Невель",
+  "where": "Невеле",
+  "region": 60
+ },
+ {
+  "slug": "novorzhev",
+  "name": "Новоржев",
+  "where": "Новоржеве",
+  "region": 60
+ },
+ {
+  "slug": "novosokolniki",
+  "name": "Новосокольники",
+  "where": "Новосокольниках",
+  "region": 60
+ },
+ {
+  "slug": "opochka",
+  "name": "Опочка",
+  "where": "Опочке",
+  "region": 60
+ },
+ {
+  "slug": "ostrov",
+  "name": "Остров",
+  "where": "Острове",
+  "region": 60
+ },
+ {
+  "slug": "pechory",
+  "name": "Печоры",
+  "where": "Печорах",
+  "region": 60
+ },
+ {
+  "slug": "porkhov",
+  "name": "Порхов",
+  "where": "Порхове",
+  "region": 60
+ },
+ {
+  "slug": "pskov",
+  "name": "Псков",
+  "where": "Пскове",
+  "region": 60
+ },
+ {
+  "slug": "pustoshka",
+  "name": "Пустошка",
+  "where": "Пустошке",
+  "region": 60
+ },
+ {
+  "slug": "pytalovo",
+  "name": "Пыталово",
+  "where": "Пыталове",
+  "region": 60
+ },
+ {
+  "slug": "sebezh",
+  "name": "Себеж",
+  "where": "Себеже",
+  "region": 60
+ },
+ {
+  "slug": "azov",
+  "name": "Азов",
+  "where": "Азове",
+  "region": 61
+ },
+ {
+  "slug": "aksay",
+  "name": "Аксай",
+  "where": "Аксае",
+  "region": 61
+ },
+ {
+  "slug": "bataysk",
+  "name": "Батайск",
+  "where": "Батайске",
+  "region": 61
+ },
+ {
+  "slug": "belayakalitva",
+  "name": "Белая Калитва",
+  "where": "Белой Калитве",
+  "region": 61
+ },
+ {
+  "slug": "volgodonsk",
+  "name": "Волгодонск",
+  "where": "Волгодонске",
+  "region": 61
+ },
+ {
+  "slug": "gukovo",
+  "name": "Гуково",
+  "where": "Гукове",
+  "region": 61
+ },
+ {
+  "slug": "donetsk",
+  "name": "Донецк",
+  "where": "Донецке",
+  "region": 61
+ },
+ {
+  "slug": "zverevo",
+  "name": "Зверево",
+  "where": "Зверевом",
+  "region": 61
+ },
+ {
+  "slug": "zernograd",
+  "name": "Зерноград",
+  "where": "Зернограде",
+  "region": 61
+ },
+ {
+  "slug": "kamensk-shakhtinskiy",
+  "name": "Каменск-Шахтинский",
+  "where": "Каменске-Шахтинском",
+  "region": 61
+ },
+ {
+  "slug": "konstantinovsk",
+  "name": "Константиновск",
+  "where": "Константиновске",
+  "region": 61
+ },
+ {
+  "slug": "krasnyysulin",
+  "name": "Красный Сулин",
+  "where": "Красном Сулине",
+  "region": 61
+ },
+ {
+  "slug": "millerovo",
+  "name": "Миллерово",
+  "where": "Миллерове",
+  "region": 61
+ },
+ {
+  "slug": "morozovsk",
+  "name": "Морозовск",
+  "where": "Морозовске",
+  "region": 61
+ },
+ {
+  "slug": "novocherkassk",
+  "name": "Новочеркасск",
+  "where": "Новочеркасске",
+  "region": 61
+ },
+ {
+  "slug": "novoshakhtinsk",
+  "name": "Новошахтинск",
+  "where": "Новошахтинске",
+  "region": 61
+ },
+ {
+  "slug": "proletarsk",
+  "name": "Пролетарск",
+  "where": "Пролетарске",
+  "region": 61
+ },
+ {
+  "slug": "rostov-na-donu",
+  "name": "Ростов-на-Дону",
+  "where": "Ростове-на-Дону",
+  "region": 61
+ },
+ {
+  "slug": "salsk",
+  "name": "Сальск",
+  "where": "Сальске",
+  "region": 61
+ },
+ {
+  "slug": "semikarakorsk",
+  "name": "Семикаракорск",
+  "where": "Семикаракорске",
+  "region": 61
+ },
+ {
+  "slug": "taganrog",
+  "name": "Таганрог",
+  "where": "Таганроге",
+  "region": 61
+ },
+ {
+  "slug": "tsimlyansk",
+  "name": "Цимлянск",
+  "where": "Цимлянске",
+  "region": 61
+ },
+ {
+  "slug": "shakhty",
+  "name": "Шахты",
+  "where": "Шахтах",
+  "region": 61
+ },
+ {
+  "slug": "kasimov",
+  "name": "Касимов",
+  "where": "Касимове",
+  "region": 62
+ },
+ {
+  "slug": "korablino",
+  "name": "Кораблино",
+  "where": "Кораблине",
+  "region": 62
+ },
+ {
+  "slug": "mikhaylov",
+  "name": "Михайлов",
+  "where": "Михайлове",
+  "region": 62
+ },
+ {
+  "slug": "novomichurinsk",
+  "name": "Новомичуринск",
+  "where": "Новомичуринске",
+  "region": 62
+ },
+ {
+  "slug": "rybnoe",
+  "name": "Рыбное",
+  "where": "Рыбном",
+  "region": 62
+ },
+ {
+  "slug": "ryazhsk",
+  "name": "Ряжск",
+  "where": "Ряжске",
+  "region": 62
+ },
+ {
+  "slug": "ryazan",
+  "name": "Рязань",
+  "where": "Рязани",
+  "region": 62
+ },
+ {
+  "slug": "sasovo",
+  "name": "Сасово",
+  "where": "Сасове",
+  "region": 62
+ },
+ {
+  "slug": "skopin",
+  "name": "Скопин",
+  "where": "Скопине",
+  "region": 62
+ },
+ {
+  "slug": "spas-klepiki",
+  "name": "Спас-Клепики",
+  "where": "Спасе-Клепики",
+  "region": 62
+ },
+ {
+  "slug": "spassk-ryazanskiy",
+  "name": "Спасск-Рязанский",
+  "where": "Спасске-Рязанском",
+  "region": 62
+ },
+ {
+  "slug": "shatsk",
+  "name": "Шацк",
+  "where": "Шацке",
+  "region": 62
+ },
+ {
+  "slug": "zhigulevsk",
+  "name": "Жигулевск",
+  "where": "Жигулевске",
+  "region": 63
+ },
+ {
+  "slug": "kinel",
+  "name": "Кинель",
+  "where": "Кинели",
+  "region": 63
+ },
+ {
+  "slug": "neftegorsk",
+  "name": "Нефтегорск",
+  "where": "Нефтегорске",
+  "region": 63
+ },
+ {
+  "slug": "novokuybyshevsk",
+  "name": "Новокуйбышевск",
+  "where": "Новокуйбышевске",
+  "region": 63
+ },
+ {
+  "slug": "oktyabrsk",
+  "name": "Октябрьск",
+  "where": "Октябрьске",
+  "region": 63
+ },
+ {
+  "slug": "otradnyy",
+  "name": "Отрадный",
+  "where": "Отрадном",
+  "region": 63
+ },
+ {
+  "slug": "pokhvistnevo",
+  "name": "Похвистнево",
+  "where": "Похвистневе",
+  "region": 63
+ },
+ {
+  "slug": "samara",
+  "name": "Самара",
+  "where": "Самаре",
+  "region": 63
+ },
+ {
+  "slug": "syzran",
+  "name": "Сызрань",
+  "where": "Сызрани",
+  "region": 63
+ },
+ {
+  "slug": "tolyatti",
+  "name": "Тольятти",
+  "where": "Тольятти",
+  "region": 63
+ },
+ {
+  "slug": "chapaevsk",
+  "name": "Чапаевск",
+  "where": "Чапаевске",
+  "region": 63
+ },
+ {
+  "slug": "arkadak",
+  "name": "Аркадак",
+  "where": "Аркадаке",
+  "region": 64
+ },
+ {
+  "slug": "atkarsk",
+  "name": "Аткарск",
+  "where": "Аткарске",
+  "region": 64
+ },
+ {
+  "slug": "balakovo",
+  "name": "Балаково",
+  "where": "Балакове",
+  "region": 64
+ },
+ {
+  "slug": "balashov",
+  "name": "Балашов",
+  "where": "Балашове",
+  "region": 64
+ },
+ {
+  "slug": "volsk",
+  "name": "Вольск",
+  "where": "Вольске",
+  "region": 64
+ },
+ {
+  "slug": "ershov",
+  "name": "Ершов",
+  "where": "Ершове",
+  "region": 64
+ },
+ {
+  "slug": "kalininsk",
+  "name": "Калининск",
+  "where": "Калининске",
+  "region": 64
+ },
+ {
+  "slug": "krasnoarmeysk-saratov",
+  "name": "Красноармейск",
+  "where": "Красноармейске",
+  "region": 64
+ },
+ {
+  "slug": "krasnyykut",
+  "name": "Красный Кут",
+  "where": "Красном Куте",
+  "region": 64
+ },
+ {
+  "slug": "marks",
+  "name": "Маркс",
+  "where": "Марксе",
+  "region": 64
+ },
+ {
+  "slug": "novouzensk",
+  "name": "Новоузенск",
+  "where": "Новоузенске",
+  "region": 64
+ },
+ {
+  "slug": "petrovsk",
+  "name": "Петровск",
+  "where": "Петровске",
+  "region": 64
+ },
+ {
+  "slug": "pugachev",
+  "name": "Пугачев",
+  "where": "Пугачеве",
+  "region": 64
+ },
+ {
+  "slug": "rtischevo",
+  "name": "Ртищево",
+  "where": "Ртищеве",
+  "region": 64
+ },
+ {
+  "slug": "saratov",
+  "name": "Саратов",
+  "where": "Саратове",
+  "region": 64
+ },
+ {
+  "slug": "khvalynsk",
+  "name": "Хвалынск",
+  "where": "Хвалынске",
+  "region": 64
+ },
+ {
+  "slug": "shikhany",
+  "name": "Шиханы",
+  "where": "Шиханах",
+  "region": 64
+ },
+ {
+  "slug": "engels",
+  "name": "Энгельс",
+  "where": "Энгельсе",
+  "region": 64
+ },
+ {
+  "slug": "aleksandrovsk-sakhalinskiy",
+  "name": "Александровск-Сахалинский",
+  "where": "Александровске-Сахалинском",
+  "region": 65
+ },
+ {
+  "slug": "aniva",
+  "name": "Анива",
+  "where": "Аниве",
+  "region": 65
+ },
+ {
+  "slug": "dolinsk",
+  "name": "Долинск",
+  "where": "Долинске",
+  "region": 65
+ },
+ {
+  "slug": "korsakov",
+  "name": "Корсаков",
+  "where": "Корсакове",
+  "region": 65
+ },
+ {
+  "slug": "kurilsk",
+  "name": "Курильск",
+  "where": "Курильске",
+  "region": 65
+ },
+ {
+  "slug": "makarov",
+  "name": "Макаров",
+  "where": "Макарове",
+  "region": 65
+ },
+ {
+  "slug": "nevelsk",
+  "name": "Невельск",
+  "where": "Невельске",
+  "region": 65
+ },
+ {
+  "slug": "okha",
+  "name": "Оха",
+  "where": "Охе",
+  "region": 65
+ },
+ {
+  "slug": "poronaysk",
+  "name": "Поронайск",
+  "where": "Поронайске",
+  "region": 65
+ },
+ {
+  "slug": "severo-kurilsk",
+  "name": "Северо-Курильск",
+  "where": "Северо-Курильске",
+  "region": 65
+ },
+ {
+  "slug": "tomari",
+  "name": "Томари",
+  "where": "Томари",
+  "region": 65
+ },
+ {
+  "slug": "uglegorsk",
+  "name": "Углегорск",
+  "where": "Углегорске",
+  "region": 65
+ },
+ {
+  "slug": "kholmsk",
+  "name": "Холмск",
+  "where": "Холмске",
+  "region": 65
+ },
+ {
+  "slug": "shakhtersk",
+  "name": "Шахтерск",
+  "where": "Шахтерске",
+  "region": 65
+ },
+ {
+  "slug": "yuzhno-sakhalinsk",
+  "name": "Южно-Сахалинск",
+  "where": "Южно-Сахалинске",
+  "region": 65
+ },
+ {
+  "slug": "alapaevsk",
+  "name": "Алапаевск",
+  "where": "Алапаевске",
+  "region": 66
+ },
+ {
+  "slug": "aramil",
+  "name": "Арамиль",
+  "where": "Арамиле",
+  "region": 66
+ },
+ {
+  "slug": "artemovskiy",
+  "name": "Артемовский",
+  "where": "Артемовском",
+  "region": 66
+ },
+ {
+  "slug": "asbest",
+  "name": "Асбест",
+  "where": "Асбесте",
+  "region": 66
+ },
+ {
+  "slug": "berezovskiy-sverdl",
+  "name": "Березовский",
+  "where": "Березовском",
+  "region": 66
+ },
+ {
+  "slug": "bogdanovich",
+  "name": "Богданович",
+  "where": "Богдановиче",
+  "region": 66
+ },
+ {
+  "slug": "verkhniytagil",
+  "name": "Верхний Тагил",
+  "where": "Верхнем Тагиле",
+  "region": 66
+ },
+ {
+  "slug": "verkhnyayapyshma",
+  "name": "Верхняя Пышма",
+  "where": "Верхней Пышме",
+  "region": 66
+ },
+ {
+  "slug": "verkhnyayasalda",
+  "name": "Верхняя Салда",
+  "where": "Верхней Салде",
+  "region": 66
+ },
+ {
+  "slug": "verkhnyayatura",
+  "name": "Верхняя Тура",
+  "where": "Верхней Туре",
+  "region": 66
+ },
+ {
+  "slug": "verkhoture",
+  "name": "Верхотурье",
+  "where": "Верхотурье",
+  "region": 66
+ },
+ {
+  "slug": "volchansk",
+  "name": "Волчанск",
+  "where": "Волчанске",
+  "region": 66
+ },
+ {
+  "slug": "degtyarsk",
+  "name": "Дегтярск",
+  "where": "Дегтярске",
+  "region": 66
+ },
+ {
+  "slug": "ekaterinburg",
+  "name": "Екатеринбург",
+  "where": "Екатеринбурге",
+  "region": 66
+ },
+ {
+  "slug": "zarechnyy-sverdlovsk",
+  "name": "Заречный",
+  "where": "Заречном",
+  "region": 66
+ },
+ {
+  "slug": "ivdel",
+  "name": "Ивдель",
+  "where": "Ивделе",
+  "region": 66
+ },
+ {
+  "slug": "irbit",
+  "name": "Ирбит",
+  "where": "Ирбите",
+  "region": 66
+ },
+ {
+  "slug": "kamensk-uralskiy",
+  "name": "Каменск-Уральский",
+  "where": "Каменске-Уральском",
+  "region": 66
+ },
+ {
+  "slug": "kamyshlov",
+  "name": "Камышлов",
+  "where": "Камышлове",
+  "region": 66
+ },
+ {
+  "slug": "karpinsk",
+  "name": "Карпинск",
+  "where": "Карпинске",
+  "region": 66
+ },
+ {
+  "slug": "kachkanar",
+  "name": "Качканар",
+  "where": "Качканаре",
+  "region": 66
+ },
+ {
+  "slug": "kirovgrad",
+  "name": "Кировград",
+  "where": "Кировграде",
+  "region": 66
+ },
+ {
+  "slug": "krasnoturinsk",
+  "name": "Краснотурьинск",
+  "where": "Краснотурьинске",
+  "region": 66
+ },
+ {
+  "slug": "krasnouralsk",
+  "name": "Красноуральск",
+  "where": "Красноуральске",
+  "region": 66
+ },
+ {
+  "slug": "krasnoufimsk",
+  "name": "Красноуфимск",
+  "where": "Красноуфимске",
+  "region": 66
+ },
+ {
+  "slug": "kushva",
+  "name": "Кушва",
+  "where": "Кушве",
+  "region": 66
+ },
+ {
+  "slug": "lesnoy",
+  "name": "Лесной",
+  "where": "Лесном",
+  "region": 66
+ },
+ {
+  "slug": "mikhaylovsk-sverdlov",
+  "name": "Михайловск",
+  "where": "Михайловске",
+  "region": 66
+ },
+ {
+  "slug": "nevyansk",
+  "name": "Невьянск",
+  "where": "Невьянске",
+  "region": 66
+ },
+ {
+  "slug": "nizhniesergi",
+  "name": "Нижние Серги",
+  "where": "Нижних Сергах",
+  "region": 66
+ },
+ {
+  "slug": "nizhniytagil",
+  "name": "Нижний Тагил",
+  "where": "Нижнем Тагиле",
+  "region": 66
+ },
+ {
+  "slug": "nizhnyayasalda",
+  "name": "Нижняя Салда",
+  "where": "Нижней Салде",
+  "region": 66
+ },
+ {
+  "slug": "nizhnyayatura",
+  "name": "Нижняя Тура",
+  "where": "Нижней Туре",
+  "region": 66
+ },
+ {
+  "slug": "novayalyalya",
+  "name": "Новая Ляля",
+  "where": "Новой Ляле",
+  "region": 66
+ },
+ {
+  "slug": "novouralsk",
+  "name": "Новоуральск",
+  "where": "Новоуральске",
+  "region": 66
+ },
+ {
+  "slug": "pervouralsk",
+  "name": "Первоуральск",
+  "where": "Первоуральске",
+  "region": 66
+ },
+ {
+  "slug": "polevskoy",
+  "name": "Полевской",
+  "where": "Полевском",
+  "region": 66
+ },
+ {
+  "slug": "revda",
+  "name": "Ревда",
+  "where": "Ревде",
+  "region": 66
+ },
+ {
+  "slug": "rezh",
+  "name": "Реж",
+  "where": "Реже",
+  "region": 66
+ },
+ {
+  "slug": "severouralsk",
+  "name": "Североуральск",
+  "where": "Североуральске",
+  "region": 66
+ },
+ {
+  "slug": "serov",
+  "name": "Серов",
+  "where": "Серове",
+  "region": 66
+ },
+ {
+  "slug": "sredneuralsk",
+  "name": "Среднеуральск",
+  "where": "Среднеуральске",
+  "region": 66
+ },
+ {
+  "slug": "sukhoylog",
+  "name": "Сухой Лог",
+  "where": "Сухом Логе",
+  "region": 66
+ },
+ {
+  "slug": "sysert",
+  "name": "Сысерть",
+  "where": "Сысерти",
+  "region": 66
+ },
+ {
+  "slug": "tavda",
+  "name": "Тавда",
+  "where": "Тавде",
+  "region": 66
+ },
+ {
+  "slug": "talitsa",
+  "name": "Талица",
+  "where": "Талице",
+  "region": 66
+ },
+ {
+  "slug": "turinsk",
+  "name": "Туринск",
+  "where": "Туринске",
+  "region": 66
+ },
+ {
+  "slug": "velizh",
+  "name": "Велиж",
+  "where": "Велиже",
+  "region": 67
+ },
+ {
+  "slug": "vyazma",
+  "name": "Вязьма",
+  "where": "Вязьме",
+  "region": 67
+ },
+ {
+  "slug": "gagarin",
+  "name": "Гагарин",
+  "where": "Гагарине",
+  "region": 67
+ },
+ {
+  "slug": "demidov",
+  "name": "Демидов",
+  "where": "Демидове",
+  "region": 67
+ },
+ {
+  "slug": "desnogorsk",
+  "name": "Десногорск",
+  "where": "Десногорске",
+  "region": 67
+ },
+ {
+  "slug": "dorogobuzh",
+  "name": "Дорогобуж",
+  "where": "Дорогобуже",
+  "region": 67
+ },
+ {
+  "slug": "dukhovschina",
+  "name": "Духовщина",
+  "where": "Духовщине",
+  "region": 67
+ },
+ {
+  "slug": "elnya",
+  "name": "Ельня",
+  "where": "Ельне",
+  "region": 67
+ },
+ {
+  "slug": "pochinok",
+  "name": "Починок",
+  "where": "Починке",
+  "region": 67
+ },
+ {
+  "slug": "roslavl",
+  "name": "Рославль",
+  "where": "Рославле",
+  "region": 67
+ },
+ {
+  "slug": "rudnya",
+  "name": "Рудня",
+  "where": "Рудне",
+  "region": 67
+ },
+ {
+  "slug": "safonovo",
+  "name": "Сафоново",
+  "where": "Сафонове",
+  "region": 67
+ },
+ {
+  "slug": "smolensk",
+  "name": "Смоленск",
+  "where": "Смоленске",
+  "region": 67
+ },
+ {
+  "slug": "sychevka",
+  "name": "Сычевка",
+  "where": "Сычевке",
+  "region": 67
+ },
+ {
+  "slug": "yartsevo",
+  "name": "Ярцево",
+  "where": "Ярцеве",
+  "region": 67
+ },
+ {
+  "slug": "zherdevka",
+  "name": "Жердевка",
+  "where": "Жердевке",
+  "region": 68
+ },
+ {
+  "slug": "kirsanov",
+  "name": "Кирсанов",
+  "where": "Кирсанове",
+  "region": 68
+ },
+ {
+  "slug": "kotovsk",
+  "name": "Котовск",
+  "where": "Котовске",
+  "region": 68
+ },
+ {
+  "slug": "michurinsk",
+  "name": "Мичуринск",
+  "where": "Мичуринске",
+  "region": 68
+ },
+ {
+  "slug": "morshansk",
+  "name": "Моршанск",
+  "where": "Моршанске",
+  "region": 68
+ },
+ {
+  "slug": "rasskazovo",
+  "name": "Рассказово",
+  "where": "Рассказове",
+  "region": 68
+ },
+ {
+  "slug": "tambov",
+  "name": "Тамбов",
+  "where": "Тамбове",
+  "region": 68
+ },
+ {
+  "slug": "uvarovo",
+  "name": "Уварово",
+  "where": "Уварове",
+  "region": 68
+ },
+ {
+  "slug": "andreapol",
+  "name": "Андреаполь",
+  "where": "Андреаполе",
+  "region": 69
+ },
+ {
+  "slug": "bezhetsk",
+  "name": "Бежецк",
+  "where": "Бежецке",
+  "region": 69
+ },
+ {
+  "slug": "belyy",
+  "name": "Белый",
+  "where": "Белом",
+  "region": 69
+ },
+ {
+  "slug": "bologoe",
+  "name": "Бологое",
+  "where": "Бологом",
+  "region": 69
+ },
+ {
+  "slug": "vesegonsk",
+  "name": "Весьегонск",
+  "where": "Весьегонске",
+  "region": 69
+ },
+ {
+  "slug": "vyshniyvolochek",
+  "name": "Вышний Волочек",
+  "where": "Вышнем Волочке",
+  "region": 69
+ },
+ {
+  "slug": "zapadnayadvina",
+  "name": "Западная Двина",
+  "where": "Западной Двине",
+  "region": 69
+ },
+ {
+  "slug": "zubtsov",
+  "name": "Зубцов",
+  "where": "Зубцове",
+  "region": 69
+ },
+ {
+  "slug": "kalyazin",
+  "name": "Калязин",
+  "where": "Калязине",
+  "region": 69
+ },
+ {
+  "slug": "kashin",
+  "name": "Кашин",
+  "where": "Кашине",
+  "region": 69
+ },
+ {
+  "slug": "kimry",
+  "name": "Кимры",
+  "where": "Кимрах",
+  "region": 69
+ },
+ {
+  "slug": "konakovo",
+  "name": "Конаково",
+  "where": "Конакове",
+  "region": 69
+ },
+ {
+  "slug": "krasnyykholm",
+  "name": "Красный Холм",
+  "where": "Красном Холме",
+  "region": 69
+ },
+ {
+  "slug": "kuvshinovo",
+  "name": "Кувшиново",
+  "where": "Кувшинове",
+  "region": 69
+ },
+ {
+  "slug": "likhoslavl",
+  "name": "Лихославль",
+  "where": "Лихославле",
+  "region": 69
+ },
+ {
+  "slug": "nelidovo",
+  "name": "Нелидово",
+  "where": "Нелидове",
+  "region": 69
+ },
+ {
+  "slug": "ostashkov",
+  "name": "Осташков",
+  "where": "Осташкове",
+  "region": 69
+ },
+ {
+  "slug": "rzhev",
+  "name": "Ржев",
+  "where": "Ржеве",
+  "region": 69
+ },
+ {
+  "slug": "staritsa",
+  "name": "Старица",
+  "where": "Старице",
+  "region": 69
+ },
+ {
+  "slug": "tver",
+  "name": "Тверь",
+  "where": "Твери",
+  "region": 69
+ },
+ {
+  "slug": "torzhok",
+  "name": "Торжок",
+  "where": "Торжке",
+  "region": 69
+ },
+ {
+  "slug": "toropets",
+  "name": "Торопец",
+  "where": "Торопце",
+  "region": 69
+ },
+ {
+  "slug": "udomlya",
+  "name": "Удомля",
+  "where": "Удомле",
+  "region": 69
+ },
+ {
+  "slug": "asino",
+  "name": "Асино",
+  "where": "Асине",
+  "region": 70
+ },
+ {
+  "slug": "kedrovyy",
+  "name": "Кедровый",
+  "where": "Кедрове",
+  "region": 70
+ },
+ {
+  "slug": "kolpashevo",
+  "name": "Колпашево",
+  "where": "Колпашеве",
+  "region": 70
+ },
+ {
+  "slug": "seversk",
+  "name": "Северск",
+  "where": "Северске",
+  "region": 70
+ },
+ {
+  "slug": "strezhevoy",
+  "name": "Стрежевой",
+  "where": "Стрежевом",
+  "region": 70
+ },
+ {
+  "slug": "tomsk",
+  "name": "Томск",
+  "where": "Томске",
+  "region": 70
+ },
+ {
+  "slug": "aleksin",
+  "name": "Алексин",
+  "where": "Алексине",
+  "region": 71
+ },
+ {
+  "slug": "belev",
+  "name": "Белев",
+  "where": "Белеве",
+  "region": 71
+ },
+ {
+  "slug": "bogoroditsk",
+  "name": "Богородицк",
+  "where": "Богородицке",
+  "region": 71
+ },
+ {
+  "slug": "bolokhovo",
+  "name": "Болохово",
+  "where": "Болохове",
+  "region": 71
+ },
+ {
+  "slug": "venev",
+  "name": "Венев",
+  "where": "Веневе",
+  "region": 71
+ },
+ {
+  "slug": "donskoy",
+  "name": "Донской",
+  "where": "Донском",
+  "region": 71
+ },
+ {
+  "slug": "efremov",
+  "name": "Ефремов",
+  "where": "Ефремове",
+  "region": 71
+ },
+ {
+  "slug": "kimovsk",
+  "name": "Кимовск",
+  "where": "Кимовске",
+  "region": 71
+ },
+ {
+  "slug": "kireevsk",
+  "name": "Киреевск",
+  "where": "Киреевске",
+  "region": 71
+ },
+ {
+  "slug": "lipki",
+  "name": "Липки",
+  "where": "Липке",
+  "region": 71
+ },
+ {
+  "slug": "novomoskovsk",
+  "name": "Новомосковск",
+  "where": "Новомосковске",
+  "region": 71
+ },
+ {
+  "slug": "plavsk",
+  "name": "Плавск",
+  "where": "Плавске",
+  "region": 71
+ },
+ {
+  "slug": "sovetsk-tula",
+  "name": "Советск",
+  "where": "Советске",
+  "region": 71
+ },
+ {
+  "slug": "suvorov",
+  "name": "Суворов",
+  "where": "Суворове",
+  "region": 71
+ },
+ {
+  "slug": "tula",
+  "name": "Тула",
+  "where": "Туле",
+  "region": 71
+ },
+ {
+  "slug": "uzlovaya",
+  "name": "Узловая",
+  "where": "Узловой",
+  "region": 71
+ },
+ {
+  "slug": "chekalin",
+  "name": "Чекалин",
+  "where": "Чекалине",
+  "region": 71
+ },
+ {
+  "slug": "schekino",
+  "name": "Щекино",
+  "where": "Щекине",
+  "region": 71
+ },
+ {
+  "slug": "yasnogorsk",
+  "name": "Ясногорск",
+  "where": "Ясногорске",
+  "region": 71
+ },
+ {
+  "slug": "zavodoukovsk",
+  "name": "Заводоуковск",
+  "where": "Заводоуковске",
+  "region": 72
+ },
+ {
+  "slug": "ishim",
+  "name": "Ишим",
+  "where": "Ишиме",
+  "region": 72
+ },
+ {
+  "slug": "tobolsk",
+  "name": "Тобольск",
+  "where": "Тобольске",
+  "region": 72
+ },
+ {
+  "slug": "tyumen",
+  "name": "Тюмень",
+  "where": "Тюмени",
+  "region": 72
+ },
+ {
+  "slug": "yalutorovsk",
+  "name": "Ялуторовск",
+  "where": "Ялуторовске",
+  "region": 72
+ },
+ {
+  "slug": "barysh",
+  "name": "Барыш",
+  "where": "Барыше",
+  "region": 73
+ },
+ {
+  "slug": "dimitrovgrad",
+  "name": "Димитровград",
+  "where": "Димитровграде",
+  "region": 73
+ },
+ {
+  "slug": "inza",
+  "name": "Инза",
+  "where": "Инзе",
+  "region": 73
+ },
+ {
+  "slug": "novoulyanovsk",
+  "name": "Новоульяновск",
+  "where": "Новоульяновске",
+  "region": 73
+ },
+ {
+  "slug": "sengiley",
+  "name": "Сенгилей",
+  "where": "Сенгилее",
+  "region": 73
+ },
+ {
+  "slug": "ulyanovsk",
+  "name": "Ульяновск",
+  "where": "Ульяновске",
+  "region": 73
+ },
+ {
+  "slug": "asha",
+  "name": "Аша",
+  "where": "Аше",
+  "region": 74
+ },
+ {
+  "slug": "bakal",
+  "name": "Бакал",
+  "where": "Бакале",
+  "region": 74
+ },
+ {
+  "slug": "verkhneuralsk",
+  "name": "Верхнеуральск",
+  "where": "Верхнеуральске",
+  "region": 74
+ },
+ {
+  "slug": "verkhniyufaley",
+  "name": "Верхний Уфалей",
+  "where": "Верхнем Уфалее",
+  "region": 74
+ },
+ {
+  "slug": "emanzhelinsk",
+  "name": "Еманжелинск",
+  "where": "Еманжелинске",
+  "region": 74
+ },
+ {
+  "slug": "zlatoust",
+  "name": "Златоуст",
+  "where": "Златоусте",
+  "region": 74
+ },
+ {
+  "slug": "karabash",
+  "name": "Карабаш",
+  "where": "Карабаше",
+  "region": 74
+ },
+ {
+  "slug": "kartaly",
+  "name": "Карталы",
+  "where": "Карталы",
+  "region": 74
+ },
+ {
+  "slug": "kasli",
+  "name": "Касли",
+  "where": "Касли",
+  "region": 74
+ },
+ {
+  "slug": "katav-ivanovsk",
+  "name": "Катав-Ивановск",
+  "where": "Катаве-Ивановске",
+  "region": 74
+ },
+ {
+  "slug": "kopeysk",
+  "name": "Копейск",
+  "where": "Копейске",
+  "region": 74
+ },
+ {
+  "slug": "korkino",
+  "name": "Коркино",
+  "where": "Коркине",
+  "region": 74
+ },
+ {
+  "slug": "kusa",
+  "name": "Куса",
+  "where": "Кусе",
+  "region": 74
+ },
+ {
+  "slug": "kyshtym",
+  "name": "Кыштым",
+  "where": "Кыштыме",
+  "region": 74
+ },
+ {
+  "slug": "magnitogorsk",
+  "name": "Магнитогорск",
+  "where": "Магнитогорске",
+  "region": 74
+ },
+ {
+  "slug": "miass",
+  "name": "Миасс",
+  "where": "Миассе",
+  "region": 74
+ },
+ {
+  "slug": "minyar",
+  "name": "Миньяр",
+  "where": "Миньяре",
+  "region": 74
+ },
+ {
+  "slug": "nyazepetrovsk",
+  "name": "Нязепетровск",
+  "where": "Нязепетровске",
+  "region": 74
+ },
+ {
+  "slug": "ozersk-chelyabinsk",
+  "name": "Озерск",
+  "where": "Озерске",
+  "region": 74
+ },
+ {
+  "slug": "plast",
+  "name": "Пласт",
+  "where": "Пласте",
+  "region": 74
+ },
+ {
+  "slug": "satka",
+  "name": "Сатка",
+  "where": "Сатке",
+  "region": 74
+ },
+ {
+  "slug": "sim",
+  "name": "Сим",
+  "where": "Симе",
+  "region": 74
+ },
+ {
+  "slug": "snezhinsk",
+  "name": "Снежинск",
+  "where": "Снежинске",
+  "region": 74
+ },
+ {
+  "slug": "trekhgornyy",
+  "name": "Трехгорный",
+  "where": "Трехгорном",
+  "region": 74
+ },
+ {
+  "slug": "troitsk-chelyabinsk",
+  "name": "Троицк",
+  "where": "Троицке",
+  "region": 74
+ },
+ {
+  "slug": "ust-katav",
+  "name": "Усть-Катав",
+  "where": "Усть-Катаве",
+  "region": 74
+ },
+ {
+  "slug": "chebarkul",
+  "name": "Чебаркуль",
+  "where": "Чебаркуле",
+  "region": 74
+ },
+ {
+  "slug": "chelyabinsk",
+  "name": "Челябинск",
+  "where": "Челябинске",
+  "region": 74
+ },
+ {
+  "slug": "yuzhnouralsk",
+  "name": "Южноуральск",
+  "where": "Южноуральске",
+  "region": 74
+ },
+ {
+  "slug": "yuryuzan",
+  "name": "Юрюзань",
+  "where": "Юрюзани",
+  "region": 74
+ },
+ {
+  "slug": "baley",
+  "name": "Балей",
+  "where": "Балее",
+  "region": 75
+ },
+ {
+  "slug": "borzya",
+  "name": "Борзя",
+  "where": "Борзе",
+  "region": 75
+ },
+ {
+  "slug": "krasnokamensk",
+  "name": "Краснокаменск",
+  "where": "Краснокаменске",
+  "region": 75
+ },
+ {
+  "slug": "mogocha",
+  "name": "Могоча",
+  "where": "Могоче",
+  "region": 75
+ },
+ {
+  "slug": "nerchinsk",
+  "name": "Нерчинск",
+  "where": "Нерчинске",
+  "region": 75
+ },
+ {
+  "slug": "petrovsk-zabaykalskiy",
+  "name": "Петровск-Забайкальский",
+  "where": "Петровске-Забайкальском",
+  "region": 75
+ },
+ {
+  "slug": "sretensk",
+  "name": "Сретенск",
+  "where": "Сретенске",
+  "region": 75
+ },
+ {
+  "slug": "khilok",
+  "name": "Хилок",
+  "where": "Хилке",
+  "region": 75
+ },
+ {
+  "slug": "chita",
+  "name": "Чита",
+  "where": "Чите",
+  "region": 75
+ },
+ {
+  "slug": "shilka",
+  "name": "Шилка",
+  "where": "Шилке",
+  "region": 75
+ },
+ {
+  "slug": "gavrilov-yam",
+  "name": "Гаврилов-Ям",
+  "where": "Гаврилов-Яме",
+  "region": 76
+ },
+ {
+  "slug": "danilov",
+  "name": "Данилов",
+  "where": "Данилове",
+  "region": 76
+ },
+ {
+  "slug": "lyubim",
+  "name": "Любим",
+  "where": "Любиме",
+  "region": 76
+ },
+ {
+  "slug": "myshkin",
+  "name": "Мышкин",
+  "where": "Мышкине",
+  "region": 76
+ },
+ {
+  "slug": "pereslavl-zalesskiy",
+  "name": "Переславль-Залесский",
+  "where": "Переславле-Залесском",
+  "region": 76
+ },
+ {
+  "slug": "poshekhone",
+  "name": "Пошехонье",
+  "where": "Пошехонье",
+  "region": 76
+ },
+ {
+  "slug": "rostov",
+  "name": "Ростов",
+  "where": "Ростове",
+  "region": 76
+ },
+ {
+  "slug": "rybinsk",
+  "name": "Рыбинск",
+  "where": "Рыбинске",
+  "region": 76
+ },
+ {
+  "slug": "tutaev",
+  "name": "Тутаев",
+  "where": "Тутаеве",
+  "region": 76
+ },
+ {
+  "slug": "uglich",
+  "name": "Углич",
+  "where": "Угличе",
+  "region": 76
+ },
+ {
+  "slug": "yaroslavl",
+  "name": "Ярославль",
+  "where": "Ярославле",
+  "region": 76
+ },
+ {
+  "slug": "zelenograd",
+  "name": "Зеленоград",
+  "where": "Зеленограде",
+  "region": 77
+ },
+ {
+  "slug": "moskva",
+  "name": "Москва",
+  "where": "Москве",
+  "region": 77
+ },
+ {
+  "slug": "moskovskiy",
+  "name": "Московский",
+  "where": "Московском",
+  "region": 77
+ },
+ {
+  "slug": "troitsk-moskov",
+  "name": "Троицк",
+  "where": "Троицке",
+  "region": 77
+ },
+ {
+  "slug": "scherbinka",
+  "name": "Щербинка",
+  "where": "Щербинке",
+  "region": 77
+ },
+ {
+  "slug": "zelenogorsk-spb",
+  "name": "Зеленогорск",
+  "where": "Зеленогорске",
+  "region": 78
+ },
+ {
+  "slug": "kolpino",
+  "name": "Колпино",
+  "where": "Колпине",
+  "region": 78
+ },
+ {
+  "slug": "krasnoeselo",
+  "name": "Красное Село",
+  "where": "Красном Селе",
+  "region": 78
+ },
+ {
+  "slug": "kronshtadt",
+  "name": "Кронштадт",
+  "where": "Кронштадте",
+  "region": 78
+ },
+ {
+  "slug": "lomonosov",
+  "name": "Ломоносов",
+  "where": "Ломоносове",
+  "region": 78
+ },
+ {
+  "slug": "pavlovsk-spb",
+  "name": "Павловск",
+  "where": "Павловске",
+  "region": 78
+ },
+ {
+  "slug": "petergof",
+  "name": "Петергоф",
+  "where": "Петергофе",
+  "region": 78
+ },
+ {
+  "slug": "pushkin",
+  "name": "Пушкин",
+  "where": "Пушкине",
+  "region": 78
+ },
+ {
+  "slug": "sankt-peterburg",
+  "name": "Санкт-Петербург",
+  "where": "Санкт-Петербурге",
+  "region": 78
+ },
+ {
+  "slug": "sestroretsk",
+  "name": "Сестрорецк",
+  "where": "Сестрорецке",
+  "region": 78
+ },
+ {
+  "slug": "birobidzhan",
+  "name": "Биробиджан",
+  "where": "Биробиджане",
+  "region": 79
+ },
+ {
+  "slug": "obluche",
+  "name": "Облучье",
+  "where": "Облучье",
+  "region": 79
+ },
+ {
+  "slug": "naryan-mar",
+  "name": "Нарьян-Мар",
+  "where": "Нарьяне-Маре",
+  "region": 83
+ },
+ {
+  "slug": "beloyarskiy",
+  "name": "Белоярский",
+  "where": "Белоярском",
+  "region": 86
+ },
+ {
+  "slug": "kogalym",
+  "name": "Когалым",
+  "where": "Когалыме",
+  "region": 86
+ },
+ {
+  "slug": "langepas",
+  "name": "Лангепас",
+  "where": "Лангепасе",
+  "region": 86
+ },
+ {
+  "slug": "lyantor",
+  "name": "Лянтор",
+  "where": "Лянторе",
+  "region": 86
+ },
+ {
+  "slug": "megion",
+  "name": "Мегион",
+  "where": "Мегионе",
+  "region": 86
+ },
+ {
+  "slug": "nefteyugansk",
+  "name": "Нефтеюганск",
+  "where": "Нефтеюганске",
+  "region": 86
+ },
+ {
+  "slug": "nizhnevartovsk",
+  "name": "Нижневартовск",
+  "where": "Нижневартовске",
+  "region": 86
+ },
+ {
+  "slug": "nyagan",
+  "name": "Нягань",
+  "where": "Нягани",
+  "region": 86
+ },
+ {
+  "slug": "pokachi",
+  "name": "Покачи",
+  "where": "Покачи",
+  "region": 86
+ },
+ {
+  "slug": "pyt-yakh",
+  "name": "Пыть-Ях",
+  "where": "Пыти-Ях",
+  "region": 86
+ },
+ {
+  "slug": "raduzhnyy-hmao",
+  "name": "Радужный",
+  "where": "Радужном",
+  "region": 86
+ },
+ {
+  "slug": "sovetskiy",
+  "name": "Советский",
+  "where": "Советском",
+  "region": 86
+ },
+ {
+  "slug": "surgut",
+  "name": "Сургут",
+  "where": "Сургуте",
+  "region": 86
+ },
+ {
+  "slug": "uray",
+  "name": "Урай",
+  "where": "Урае",
+  "region": 86
+ },
+ {
+  "slug": "khanty-mansiysk",
+  "name": "Ханты-Мансийск",
+  "where": "Ханты-Мансийске",
+  "region": 86
+ },
+ {
+  "slug": "yugorsk",
+  "name": "Югорск",
+  "where": "Югорске",
+  "region": 86
+ },
+ {
+  "slug": "anadyr",
+  "name": "Анадырь",
+  "where": "Анадыре",
+  "region": 87
+ },
+ {
+  "slug": "bilibino",
+  "name": "Билибино",
+  "where": "Билибино",
+  "region": 87
+ },
+ {
+  "slug": "pevek",
+  "name": "Певек",
+  "where": "Певеке",
+  "region": 87
+ },
+ {
+  "slug": "gubkinskiy",
+  "name": "Губкинский",
+  "where": "Губкинском",
+  "region": 89
+ },
+ {
+  "slug": "labytnangi",
+  "name": "Лабытнанги",
+  "where": "Лабытнанги",
+  "region": 89
+ },
+ {
+  "slug": "muravlenko",
+  "name": "Муравленко",
+  "where": "Муравленко",
+  "region": 89
+ },
+ {
+  "slug": "nadym",
+  "name": "Надым",
+  "where": "Надыме",
+  "region": 89
+ },
+ {
+  "slug": "novyyurengoy",
+  "name": "Новый Уренгой",
+  "where": "Новом Уренгое",
+  "region": 89
+ },
+ {
+  "slug": "noyabrsk",
+  "name": "Ноябрьск",
+  "where": "Ноябрьске",
+  "region": 89
+ },
+ {
+  "slug": "salekhard",
+  "name": "Салехард",
+  "where": "Салехарде",
+  "region": 89
+ },
+ {
+  "slug": "tarko-sale",
+  "name": "Тарко-Сале",
+  "where": "Тарко-Сале",
+  "region": 89
+ },
+ {
+  "slug": "alupka",
+  "name": "Алупка",
+  "where": "Алупке",
+  "region": 91
+ },
+ {
+  "slug": "alushta",
+  "name": "Алушта",
+  "where": "Алуште",
+  "region": 91
+ },
+ {
+  "slug": "armyansk",
+  "name": "Армянск",
+  "where": "Армянске",
+  "region": 91
+ },
+ {
+  "slug": "bakhchisaray",
+  "name": "Бахчисарай",
+  "where": "Бахчисарае",
+  "region": 91
+ },
+ {
+  "slug": "belogorsk-krym",
+  "name": "Белогорск",
+  "where": "Белогорске",
+  "region": 91
+ },
+ {
+  "slug": "dzhankoy",
+  "name": "Джанкой",
+  "where": "Джанкое",
+  "region": 91
+ },
+ {
+  "slug": "evpatoriya",
+  "name": "Евпатория",
+  "where": "Евпатории",
+  "region": 91
+ },
+ {
+  "slug": "kerch",
+  "name": "Керчь",
+  "where": "Керче",
+  "region": 91
+ },
+ {
+  "slug": "krasnoperekopsk",
+  "name": "Красноперекопск",
+  "where": "Красноперекопске",
+  "region": 91
+ },
+ {
+  "slug": "podgornoe",
+  "name": "Подгорное",
+  "where": "Подгорном",
+  "region": 91
+ },
+ {
+  "slug": "saki",
+  "name": "Саки",
+  "where": "Саках",
+  "region": 91
+ },
+ {
+  "slug": "simferopol",
+  "name": "Симферополь",
+  "where": "Симферополе",
+  "region": 91
+ },
+ {
+  "slug": "staryykrym",
+  "name": "Старый крым",
+  "where": "Старом крыме",
+  "region": 91
+ },
+ {
+  "slug": "sudak",
+  "name": "Судак",
+  "where": "Судаке",
+  "region": 91
+ },
+ {
+  "slug": "feodosiya",
+  "name": "Феодосия",
+  "where": "Феодосии",
+  "region": 91
+ },
+ {
+  "slug": "schelkino",
+  "name": "Щелкино",
+  "where": "Щелкино",
+  "region": 91
+ },
+ {
+  "slug": "yalta",
+  "name": "Ялта",
+  "where": "Ялте",
+  "region": 91
+ },
+ {
+  "slug": "inkerman",
+  "name": "Инкерман",
+  "where": "Инкермане",
+  "region": 92
+ },
+ {
+  "slug": "sevastopol",
+  "name": "Севастополь",
+  "where": "Севастополе",
+  "region": 92
+ }
+]
