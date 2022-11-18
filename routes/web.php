@@ -55,6 +55,7 @@ Route::post('/search-place', function (\Illuminate\Http\Request $request) {
 
 Route::get('change-place/{type}/{slug}', function ($type, $slug) {
     $url = parse_url(env('APP_URL'));
-    $domain = $url['host'].($url['port']?':'.$url['port']:'');
+
+    $domain = $url['host'].(isset($url['port'])?':'.$url['port']:'');
     return redirect()->to("{$url['scheme']}://{$slug}.{$domain}");
 });
