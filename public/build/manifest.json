@@ -8,7 +8,7 @@
     "src": "node_modules/@quasar/extras/material-icons/web-font/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.woff"
   },
   "resources/scripts/main.ts": {
-    "file": "assets/main.9055841c.js",
+    "file": "assets/main.5f2e403a.js",
     "src": "resources/scripts/main.ts",
     "isEntry": true,
     "dynamicImports": [
@@ -23,7 +23,7 @@
     ]
   },
   "resources/views/pages/home.vue": {
-    "file": "assets/home.bf98868b.js",
+    "file": "assets/home.3bbb0757.js",
     "src": "resources/views/pages/home.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -33,14 +33,14 @@
       "assets/home.8720b154.css"
     ]
   },
+  "resources/views/pages/home.css": {
+    "file": "assets/home.8720b154.css",
+    "src": "resources/views/pages/home.css"
+  },
   "resources/css/tailwind.css": {
     "file": "assets/tailwind.8bf3d7c5.css",
     "src": "resources/css/tailwind.css",
     "isEntry": true
-  },
-  "resources/views/pages/home.css": {
-    "file": "assets/home.8720b154.css",
-    "src": "resources/views/pages/home.css"
   },
   "resources/scripts/main.css": {
     "file": "assets/main.d92c11e9.css",

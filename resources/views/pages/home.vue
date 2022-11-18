@@ -5,14 +5,14 @@
             <q-toolbar>
                 <q-toolbar-title>
                     Тендерное сопровождение
+                    <span v-if="place">в {{place.variable.where}}</span>
                 </q-toolbar-title>
                 <q-btn flat label="Выберите город" icon="location_on" @click="dialog_select_place.status = true" />
             </q-toolbar>
         </q-header>
 
         <q-page-container class="bg-white">
-            <q-page>
-                <br><br>
+            <q-page class="q-pa-xl">
                 Изначально хотел сделать переход на поддомен без перезагрузки, но так нельзя (протокол безопасности браузера).
                 <br>
                 Какие существуют теги СЕО не знаю (с ними полноценно не работал), при необходимости будут изучены. <br>
@@ -43,6 +43,17 @@
                 </q-card-section>
             </q-card>
         </q-dialog>
+        <q-dialog v-model="dialog_sentence_place.status" >
+            <q-card style="min-width: 50vw;">
+                <q-card-section class="text-h6">
+                    Ваш город {{sentence.name}}?
+                </q-card-section>
+                <q-card-section>
+                    <q-btn flat label="Нет, выбрать другой" color="primary" @click="select_other" />
+                    <q-btn flat label="Да" color="primary" @click="event__change_place(sentence)"/>
+                </q-card-section>
+            </q-card>
+        </q-dialog>
     </q-layout>
 </template>
 
@@ -50,13 +61,16 @@
 import { ref } from 'vue'
 
 export default {
-    props: ['select_place', 'area'],
+    props: ['select_place', 'area', 'place', 'sentence'],
     data(){
         return {
             dialog_select_place: {
                 status: false,
                 search: '',
                 result: this.area
+            },
+            dialog_sentence_place: {
+                status: false
             },
             options: [
 
@@ -65,7 +79,6 @@ export default {
     },
     watch: {
         'dialog_select_place.search': function (text){
-            console.log(text)
             if (text.length >= 3){
                 this.axios.post('/search-place', {
                     q: text
@@ -79,6 +92,15 @@ export default {
     methods:{
         event__change_place(el){
             window.location.href = "/change-place/" + el.type + '/' + el.slug
+        },
+        select_other(){
+            this.dialog_sentence_place.status = false
+            this.dialog_select_place.status = true
+        }
+    },
+    mounted() {
+        if (this.sentence && !this.place){
+            this.dialog_sentence_place.status = true
         }
     }
 }

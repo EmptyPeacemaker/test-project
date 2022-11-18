@@ -43,7 +43,7 @@ class HandleInertiaRequests extends Middleware
             	'php' => PHP_VERSION,
             	'laravel' => \Illuminate\Foundation\Application::VERSION
             ],
-            'area' => Area::all()->map(fn($el) => array_merge($el->only(['slug','name']), ['type' => 'area', 'variable' => json_decode($el->variable)]))
+            'area' => Area::all()->map(fn($el) => array_merge($el->only(['slug','name']), ['type' => 'area', 'variable' => json_decode($el->variable)])),
         ]);
     }
 }
