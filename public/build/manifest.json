@@ -1,0 +1,49 @@
+{
+  "node_modules/@quasar/extras/material-icons/web-font/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2": {
+    "file": "assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+    "src": "node_modules/@quasar/extras/material-icons/web-font/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2"
+  },
+  "node_modules/@quasar/extras/material-icons/web-font/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.woff": {
+    "file": "assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff",
+    "src": "node_modules/@quasar/extras/material-icons/web-font/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.woff"
+  },
+  "resources/scripts/main.ts": {
+    "file": "assets/main.9055841c.js",
+    "src": "resources/scripts/main.ts",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/views/pages/home.vue"
+    ],
+    "css": [
+      "assets/main.d92c11e9.css"
+    ],
+    "assets": [
+      "assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.83be7b2f.woff2",
+      "assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.fd84f88b.woff"
+    ]
+  },
+  "resources/views/pages/home.vue": {
+    "file": "assets/home.bf98868b.js",
+    "src": "resources/views/pages/home.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/scripts/main.ts"
+    ],
+    "css": [
+      "assets/home.8720b154.css"
+    ]
+  },
+  "resources/css/tailwind.css": {
+    "file": "assets/tailwind.8bf3d7c5.css",
+    "src": "resources/css/tailwind.css",
+    "isEntry": true
+  },
+  "resources/views/pages/home.css": {
+    "file": "assets/home.8720b154.css",
+    "src": "resources/views/pages/home.css"
+  },
+  "resources/scripts/main.css": {
+    "file": "assets/main.d92c11e9.css",
+    "src": "resources/scripts/main.css"
+  }
+}
